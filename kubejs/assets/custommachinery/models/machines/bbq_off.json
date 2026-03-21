@@ -1,0 +1,191 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"wood_log": "block/campfire_log",
+		"tray_top": "farmersdelight:block/cooking_pot_tray_top",
+		"tray_side": "farmersdelight:block/cooking_pot_tray_side",
+		"particle": "block/campfire_fire"
+	},
+	"elements": [
+		{
+			"name": "grate",
+			"from": [0, 15, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#tray_top"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#tray_top"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#tray_top"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#tray_top"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#tray_top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#tray_top"}
+			}
+		},
+		{
+			"name": "leg SE",
+			"from": [15, 0, 15],
+			"to": [16, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"east": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"south": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"west": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"}
+			}
+		},
+		{
+			"name": "leg SW",
+			"from": [0, 0, 15],
+			"to": [1, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"east": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"south": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"west": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"}
+			}
+		},
+		{
+			"name": "leg NE",
+			"from": [15, 0, 0],
+			"to": [16, 15, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"east": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"south": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"west": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"}
+			}
+		},
+		{
+			"name": "leg NW",
+			"from": [0, 0, 0],
+			"to": [1, 15, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"east": {"uv": [15, 1, 16, 16], "texture": "#tray_side"},
+				"south": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"west": {"uv": [0, 1, 1, 16], "texture": "#tray_side"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#tray_side"}
+			}
+		},
+		{
+			"from": [1, 0, 0],
+			"to": [5, 4, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "north"},
+				"east": {"uv": [0, 1, 16, 5], "texture": "#wood_log"},
+				"south": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 4], "texture": "#wood_log"},
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#wood_log"},
+				"down": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#wood_log", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 3, 11],
+			"to": [16, 7, 15],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 4], "texture": "#wood_log"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 4], "texture": "#wood_log"},
+				"west": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#wood_log"},
+				"down": {"uv": [0, 0, 16, 4], "texture": "#wood_log"}
+			}
+		},
+		{
+			"from": [11, 0, 0],
+			"to": [15, 4, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 4], "texture": "#wood_log"},
+				"south": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "south"},
+				"west": {"uv": [16, 1, 0, 5], "texture": "#wood_log"},
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#wood_log"},
+				"down": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#wood_log", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 3, 1],
+			"to": [16, 7, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#wood_log"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "east"},
+				"south": {"uv": [16, 0, 0, 4], "texture": "#wood_log"},
+				"west": {"uv": [0, 4, 4, 8], "texture": "#wood_log", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#wood_log"},
+				"down": {"uv": [0, 0, 16, 4], "texture": "#wood_log"}
+			}
+		},
+		{
+			"from": [5, 0, 0],
+			"to": [11, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 15, 6, 16], "texture": "#wood_log", "cullface": "north"},
+				"south": {"uv": [10, 15, 16, 16], "texture": "#wood_log", "cullface": "south"},
+				"up": {"uv": [0, 8, 16, 14], "rotation": 90, "texture": "#wood_log"},
+				"down": {"uv": [0, 8, 16, 14], "rotation": 90, "texture": "#wood_log", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-112.5, 69, 175.25],
+			"translation": [0, 1.25, -2.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [40, 69, 22.75],
+			"translation": [0, 1.25, -2.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 48, 0],
+			"translation": [-0.75, 2, -0.25],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"firstperson_lefthand": {
+			"rotation": [180, 48, -180],
+			"translation": [-0.75, 2, -0.25],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"ground": {
+			"translation": [0, 1, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [30, 35, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"translation": [0, 12, 0],
+			"scale": [0.72, 0.72, 0.72]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "Grata",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		},
+		{
+			"name": "Legno",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [5, 6, 7, 8, 9]
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "archers_arsenal:item/bow_leather",
+  "textures": {
+    "layer0": "archers_arsenal:item/bow_leather_draw_2"
+  }
+}

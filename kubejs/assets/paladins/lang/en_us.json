@@ -1,0 +1,21 @@
+{
+  "item.paladins.paladin_armor_head": "Battlemage's Novice Helmet",
+  "item.paladins.paladin_armor_chest": "Battlemage's Novice Chestplate",
+  "item.paladins.paladin_armor_legs": "Battlemage's Novice Leggings",
+  "item.paladins.paladin_armor_feet": "Battlemage's Novice Boots",
+
+  "item.paladins.crusader_armor_head": "Battlemage's Holy Helmet",
+  "item.paladins.crusader_armor_chest": "Battlemage's Holy Chestplate",
+  "item.paladins.crusader_armor_legs": "Battlemage's Holy Leggings",
+  "item.paladins.crusader_armor_feet": "Battlemage's Holy Boots",
+
+  "item.paladins.priest_robe_head": "Wizard Novice Hat",
+  "item.paladins.priest_robe_chest": "Wizard Novice Robe Top",
+  "item.paladins.priest_robe_legs": "Wizard Novice Bottom",
+  "item.paladins.priest_robe_feet": "Wizard Novice Boots",
+
+  "item.paladins.prior_robe_head": "Holy Hat",
+  "item.paladins.prior_robe_chest": "Holy Robe Top",
+  "item.paladins.prior_robe_legs": "Holy Robe Bottom",
+  "item.paladins.prior_robe_feet": "Holy Boots"
+}

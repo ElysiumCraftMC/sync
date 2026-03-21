@@ -1,0 +1,35 @@
+{
+  "item.spellbladenext.chainmail_head" : "Battlemage's Hat",
+  "item.spellbladenext.chainmail_chest" : "Battlemage's Robe Top",
+  "item.spellbladenext.chainmail_legs" : "Battlemage's Robe Bottom",
+  "item.spellbladenext.chainmail_feet" : "Battlemage's Boots",
+  
+  "item.spellbladenext.aetherfire_head": "Battlemage's Arcane Hat",
+  "item.spellbladenext.aetherfire_chest": "Battlemage's Arcane Robe Top",
+  "item.spellbladenext.aetherfire_legs": "Battlemage's Arcane Robe Bottom",
+  "item.spellbladenext.aetherfire_feet": "Battlemage's Arcane Boots",
+  
+  "item.spellbladenext.rimeblaze_head": "Battlemage's Fire Hat",
+  "item.spellbladenext.rimeblaze_chest": "Battlemage's Fire Robe Top",
+  "item.spellbladenext.rimeblaze_legs": "Battlemage's Fire Robe Bottom",
+  "item.spellbladenext.rimeblaze_feet": "Battlemage's Fire Boots",
+   
+  "item.spellbladenext.deathchill_head": "Battlemage's Frost Hat",
+  "item.spellbladenext.deathchill_chest": "Battlemage's Frost Robe Top",
+  "item.spellbladenext.deathchill_legs": "Battlemage's Frost Robe Bottom",
+  "item.spellbladenext.deathchill_feet": "Battlemage's Frost Boots",
+
+  "spell.spellbladenext.magic_missile.name": "Arcane Magic Missile",
+  "spell.spellbladenext.magic_missile.description": "Fires a volley of arcane bolts, dealing {damage} arcane spell damage. You can decide your targets, the longer you hold the charge the more darts you fire.",
+
+  "spell.spellbladenext.whirlwind_polearm.name": "Holy Justice",
+  "spell.spellbladenext.whirlwind_polearm.description": "Spin, dealing {damage} holy spell damage dps to nearby enemies. Penalty for hitting multiple enemies. Shift to stop moving.",
+
+  "spell.spellbladenext.multislash.name": "Arcane Multislash",
+  "spell.spellbladenext.multislash.description": "Slash around you at your location as well as at two locations 2 blocks forward and to each side, dealing {damage} arcane damage per slash.",
+
+  "spell.spellbladenext.flicker_strike.name": "Arcane Flickering Magic",
+  "spell.spellbladenext.flicker_strike.description": "Teleport to the nearest enemy, striking them repeatedly for {damage} DPS if they are the only enemy nearby. If there are more enemies nearby, you teleport to all of them equally."
+
+
+}

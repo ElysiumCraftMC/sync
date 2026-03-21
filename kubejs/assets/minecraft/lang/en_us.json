@@ -1,0 +1,18 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "item.minecraft.goat_horn": "Goat Horn",
+  "instrument.minecraft.ponder_goat_horn": "Strenght",
+  "instrument.minecraft.sing_goat_horn": "Speed",
+  "instrument.minecraft.seek_goat_horn": "Glowing",
+  "instrument.minecraft.feel_goat_horn": "Regeneration",
+  "instrument.minecraft.admire_goat_horn": "Cleanse",
+  "instrument.minecraft.call_goat_horn": "Haste",
+  "instrument.minecraft.yearn_goat_horn": "Resistance",
+  "instrument.minecraft.dream_goat_horn": "Night Vision",
+  "deathScreen.title": "Sei a terra!",
+  "deathScreen.respawn": "Resuscita ad Eloria",
+  "deathScreen.titleScreen": "Abbandona Elysium",
+  "deathScreen.quit.confirm": "Perderai oggetti, esperienza e monete. Sei sicuro?"
+}

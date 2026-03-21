@@ -1,0 +1,7 @@
+{
+  "parent": "custommachinery:machines/reinforcement_forge",
+  "textures": {
+		"0": "custommachinery:block/reinforcement_forge_lit",
+		"particle": "custommachinery:block/reinforcement_forge_lit"
+	}
+}

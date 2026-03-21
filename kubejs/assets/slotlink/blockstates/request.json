@@ -1,0 +1,10 @@
+
+{
+  "variants": {
+      "facing=north": { "model": "slotlink:block/request" },
+      "facing=south": { "model": "slotlink:block/request" ,"y": 180 },
+      "facing=west": { "model": "slotlink:block/request" ,"y":  270 },
+      "facing=east": { "model": "slotlink:block/request" ,"y":  90 }
+      
+}
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "custommachinery:machines/terracotta_cauldron_on",
+  "textures": {
+		"9": "custommachinery:block/iron_cauldron_top",
+		"10": "custommachinery:block/iron_cauldron_side",
+		"13": "custommachinery:block/iron_cauldron_inner",
+		"11": "custommachinery:block/liquido_alambicco",
+		"particle": "custommachinery:block/liquido_alambicco"
+	}
+}

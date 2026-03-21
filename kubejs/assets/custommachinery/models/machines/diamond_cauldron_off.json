@@ -1,0 +1,9 @@
+{
+  "parent": "custommachinery:machines/terracotta_cauldron_off",
+  "textures": {
+    "0": "custommachinery:block/diamond_cauldron_inner",
+		"2": "custommachinery:block/diamond_cauldron_top",
+		"3": "custommachinery:block/diamond_cauldron_side",
+		"particle": "minecraft:block/diamond_cauldron_inner"
+  }
+}

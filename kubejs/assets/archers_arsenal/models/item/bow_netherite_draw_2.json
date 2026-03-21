@@ -1,0 +1,6 @@
+{
+  "parent": "archers_arsenal:item/bow_netherite",
+  "textures": {
+    "layer0": "archers_arsenal:item/bow_netherite_draw_2"
+  }
+}
