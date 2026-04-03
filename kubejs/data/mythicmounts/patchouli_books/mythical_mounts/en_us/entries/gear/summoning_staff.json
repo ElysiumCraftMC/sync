@@ -1,0 +1,18 @@
+{
+  "name": "Ender Flute",
+  "icon": "mythicmounts:textures/gui/book/dash.png",
+  "category": "mythicmounts:gear",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "An item which can be used to summon a mount to your location.$(br2)Once linked by taming the creature, it may summon the mount to their rider's side in an instant."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": { "item": "adventurez:ender_flute" },
+      "text": "Obtained after taming a mount"
+    }
+  ],
+  "sortnum": 0
+}

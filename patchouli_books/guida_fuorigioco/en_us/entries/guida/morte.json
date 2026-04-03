@@ -1,0 +1,17 @@
+{
+    "name": "Morte",
+	"sortnum": 4,
+    "icon": "mcwholidays:stone_cross",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Gli Dei hanno benedetto gli Araldi con la $(d)resurrezione$(). Se vieni sconfitto ti ritroverai a terra: puoi aspettare che un tuo compagno usi su di te una pozione di $(6)rianimazione$() oppure decidere di tornare ad Eloria. $(d)Resuscitando$(), però, puoi $(c)perdere$() oggetti, monete e esperienza."
+        },	
+		{
+			"type": "patchouli:poster",
+			"text": "",
+			"drawing": "elysium:textures/book/death.png"
+		}
+    ]
+}

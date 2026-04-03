@@ -1,0 +1,20 @@
+{
+    "name": "Informazioni sugli Item",
+	"sortnum": 11,
+    "icon": "byg:white_mangrove_sign",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Se premi $(l)[U]$() mentre hai il cursore sopra ad alcuni oggetti, avrai la possibilità di visualizzare la pagina delle informazioni."
+        },
+		{
+			"type": "patchouli:poster2",
+			"text": "",
+			"text2": "",
+			"drawing": "elysium:textures/book/information_panel.png"
+		}
+    ]
+}
+
+

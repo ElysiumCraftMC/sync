@@ -1,0 +1,26 @@
+{
+    "name": "Fame e Dieta",
+	"sortnum": 7,
+    "icon": "minecraft:bread",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+			"text": "La meccanica del cibo è totalmente diversa da quella vanilla.$(br)$(li)I cosciotti classici di minecraft diventano esclusivamente una misura di quanto si può mangiare.$(li)Il cibo $(n)NON$() rigenera la vita.$(li)I cosciotti scendono, non in base alle azioni come in vanilla, ma in base al tempo in gioco"
+        },
+		{
+            "type": "text",
+			"text": "$(li)Ogni cibo ristora solo 1 cosciotto, indipendentemente dalla tipologia o tier.$(br2)$(l)Dieta:$()$(li)E' possibile mangiare lo stesso cibo solo 2 volte, per mangiarlo di nuovo bisogna variare la propria dieta mangiando altri cibi"
+        },
+		{
+            "type": "text",
+			"text": "$(li)I cibi possiedono valori di nutrizione (grains,proteins, vegetables e sugars), cibi semplici danno poco in una categoria, cibi di tier alto danno tanto ed in molte categorie.$(br)$(li)Avere TUTTI i gruppi di nutrizione bassi causerà malus al giocatore, tenerli alti donerà bonus, un valore medio non applica nulla."
+        },
+		{
+			"type": "patchouli:poster_bottom",
+			"text": "Apri l' invetario e $(n)clicca$() sul pulsante col cosciotto per $(n)visualizzare$() le statistiche della dieta!",
+			"drawing": "elysium:textures/book/food_poster.png"
+		}
+    ]
+}
+

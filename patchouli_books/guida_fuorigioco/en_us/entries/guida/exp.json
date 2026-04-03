@@ -1,0 +1,17 @@
+{
+    "name": "Esperienza e Livelli",
+	"sortnum": 6,
+    "icon": "vinery:textures/mob_effect/experience_effect.png",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "In questo server, i giocatori guadagnano EXP compiendo azioni specifiche della loro classe, aumentando così la barra verde situata in basso; $(3)ogni giorno$() puoi accumulare esperienza fino al $(5)raggiungimento di un cap $(n)giornaliero$(), indicato dal cambio di colore della $(6)barra in giallo."
+        },	
+		{
+			"type": "patchouli:poster_top",
+			"text": "Quando la barra diventa rossa,significa che hai raggiunto il $(c)cap del livello$(); per continuare a progredire, dovrai $(3)parlare$() con il maestro della tua classe.",
+			"drawing": "elysium:textures/book/xp_bar.png"
+		}
+    ]
+}

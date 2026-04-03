@@ -1,0 +1,41 @@
+{
+	"components": [
+		{
+			"type": "patchouli:image",
+			"image": "#drawing",
+			"x": 6,
+			"y": -6,
+			"u": 0,
+			"v": 0,
+			"texture_width": 128,
+			"texture_height": 128,
+			"width": 128,
+			"height": 128,
+			"scale": 0.8
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#item1",
+			"x": 25,
+			"y": 132
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#item2",
+			"x": 50,
+			"y": 132
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#item3",
+			"x": 75,
+			"y": 132
+		},
+		{
+			"type": "patchouli:text",
+			"x": 0,
+			"y": 98,
+			"text": "#text"
+		}
+	]
+}

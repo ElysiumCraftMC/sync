@@ -1,0 +1,9 @@
+{
+  "name": "Mythical Mounts",
+  "landing_text": "A compendium of legendary steeds from myth and lore.$(br2)$(br)$(o)$(t:)- Brave men don't kill dragons,$(br)     brave men ride them.",
+  "version": 1,
+  "book_texture": "patchouli:textures/gui/book_red.png",
+  "show_progress": false,
+  "filler_texture": "mythicmounts:textures/gui/book/mythicmounts_book.png",
+  "model": "mythicmounts:mythical_mounts"
+}

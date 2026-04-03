@@ -1,0 +1,17 @@
+{
+    "name": "Karma",
+	"sortnum": 9,
+    "icon": "minecraft:textures/mob_effect/bad_omen.png",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Questo server NON è un server anarchico; quindi, uccidere un giocatore $(o)$(n)(che non sia in un duello)$() $(c)comporta delle conseguenze$().$(br2)Secondo la lore, gli dei hanno $(6)benedetto$() il mondo di Elysium con il dono della $(d)resurrezione$() condannando a essere ricoperti del sangue versato delle loro vittime gli assassini che ne approfittano."
+        },	
+		{
+			"type": "patchouli:poster_top",
+			"text": "Un assassino non potrà liberarsi in breve tempo del sangue versato, rendendolo così facilmente riconoscibile dagli altri giocatori",
+			"drawing": "elysium:textures/book/karma_poster.png"
+		}
+    ]
+}

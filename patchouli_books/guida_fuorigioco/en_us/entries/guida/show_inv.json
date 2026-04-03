@@ -1,0 +1,18 @@
+{
+    "name": "Mostra Inventario",
+	"sortnum": 12,
+    "icon": "extraalchemy:potion_bag",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Una volta aperto l'inventario troverai un'icona a forma di borsa aperta. Cliccando su questa icona, il tuo inventario verrà mostrato al giocatore più vicino.$(br2)Questa funzione consente di $(l)visualizzare$() il contenuto dell' inventario senza poter interagire direttamente con gli oggetti."
+        },
+		{
+			"type": "patchouli:poster2",
+			"text": "Questo è quello che vede un player quando guarda il tuo Inventario.",
+			"text2": "Permette a un mercante di mostrare le proprie merci o a un bandito di vedere cosa possiede un nobile.",
+			"drawing": "elysium:textures/book/show_inventory_poster.png"
+		}
+    ]
+}

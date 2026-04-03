@@ -1,0 +1,17 @@
+{
+    "name": "Grazia Iniziale",
+	"sortnum": 3,
+    "icon": "elysium:textures/mob_effect/grace.png",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Al primo accesso nel server viene assegnato per $(6)60 minuti$() l'effetto di Grazia, rendendo il player $(d)immune ai danni$(), permettendogli così di esplorare in tutta tranquillità il mondo di gioco.$(br2)Nel caso in cui il player dovesse $(c)infliggere del danno ad altri giocatori$(), il tempo di grazia diminuirà fino a svanire."
+        },
+		{
+			"type": "patchouli:poster_top",
+			"text": "$(br)Durante il periodo di grazia $(l)$(4)non si potrà entrare$() nell' Abisso o nella sfida degli Dei.",
+			"drawing": "elysium:textures/book/grace_poster.png"
+		}
+    ]
+}

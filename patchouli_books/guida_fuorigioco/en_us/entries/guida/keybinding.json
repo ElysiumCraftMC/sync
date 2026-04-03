@@ -1,0 +1,16 @@
+{
+    "name": "Guida al Key Binding",
+	"sortnum": 2,
+    "icon": "supplementaries:key",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "I seguenti sono i  Key binding predefiniti, ricorda che poi $(n)cambiarli$() in qualsiesi momento$(l)$(br2)Origin:$() $(li)Potere 1 : [0]$(li)Potere 2 : [‘]$(li)Vedi Origin: [,] $(l)$(br2)Voice Chat:$() $(li)Push to talk : [ALT]$(li)Urla: [X]$(li)Menù: [V]"
+        },
+		{
+            "type": "text",
+            "text": "$(l)EMOTE:$() $(li)Emote Wheel: [TAB]$(l)$(br2)Small Ship:$() $(li)Apri le vele: [U] $(l)$(br2)Spell:$() $(li)Switch magia: [ALT+ Mouse Wheel]$(li)Spell hotbar: [Z]$(l)$(br2)REPORT:$() $(li)Apri una segnalazione: [C]"
+        }
+    ]
+}

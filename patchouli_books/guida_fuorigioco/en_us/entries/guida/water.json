@@ -1,0 +1,20 @@
+{
+    "name": "Sete",
+	"sortnum": 8,
+    "icon": "elysium:water_bottle",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Come funziona la sete?. $(br)$(li)Avere il valore di idratazione a zero implica iniziare a prender danno (morire di sete).$(li)Il cuoco produce succhi, birre e vini che donano Idratazione (e anche sugars),$(li)Le pozioni dell'Alchimista quando bevute, idratano come le bevande"
+        },
+		{
+			"type": "patchouli:poster2",
+			"text": "Puoi $(l)$(2)recuperare idratazione$() bevendo dai corsi d'acqua, ma $(c)ATTENTO l'acqua non è pura",
+			"text2": "Bevendo acqua $(n)NON$() pura ottieni l'effetto $(l)$(6)Thirst (Assetato)$()",
+			"drawing": "elysium:textures/book/drink_poster.png"
+		}
+    ]
+}
+
+

@@ -1,0 +1,29 @@
+{
+    "name": "Scelta della Classe",
+	"sortnum": 1,
+    "icon": "elysium:role_warrior",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "All'interno di Elysium un giocatore deve scegliere una tra le 12 classi disponibili,$(5)ognuna di esse ha delle caratteristiche che la differenziano dalle altre$(); possono essere raggruppate in due macro categrorie $(l)NON COMBATTENTI e COMBATTENTI$().$(br2)Per scegliere la classe dovrai parlare con l'npc della classe di riferimento."
+        },
+		{
+			"type": "patchouli:poster_top",
+			"text": "Poichè una volta scelta la classe $(c)non sarà possibile cambiarla$(), prenditi del tempo, parla con gli npc in città, essi ti diranno anche quanti player $(d)attualmente sono attivi$() per la data classe.",
+			"drawing": "elysium:textures/book/classi.png"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item":"elysium:role_alchemist,elysium:role_blacksmith,elysium:role_carpenter,elysium:role_cook,elysium:role_countryman,elysium:role_worker",
+			"title": "NON COMBATTENTI",
+			"text": "Se preferisci una vita più tranquilla magari incentrata al commeciare, scegli una classe non combattente, questo tipo di classi sono incentrate $(d)nel crafting$(), come il fabbro che crea le armi per il guerriero. Scegliendo questa classe $(4)non potrai eguagliare in combattimento$() una classe combattente in quanto sei limitato ad usare massimo armi vanilla e quelle tipiche della classe."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"title": "COMBATTENTI",
+			"item":"elysium:role_warrior,elysium:role_archer,elysium:role_wizard,elysium:role_thief,elysium:role_bard",
+			"text": "Se preferisci l'azione, puoi scegliere una classe combattente; essa $(d)avrà abilità specifiche$() e $(5)armi incentrate sul combattimento$(), come il potere di diventare invisibile delle ombre o armi come: le bacchette del mago o gli archi dell' hunter.$(c)$(br2)Nota: Sia combattenti che NON combattenti$(2) possono entrare $() nell' abisso e nella sfida degli dei"
+		}
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Come funziona il claim?",
+	"sortnum": 5,
+    "icon": "goml:makeshift_claim_anchor",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Piazzalo nel chunk che ti interessa proteggere, ricordati di metterci dei soldi ($(l)$(c)non metterli tutti!$())."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": {
+				"item": "goml:makeshift_claim_anchor"
+			},
+			"text": "$(li)Se lo rompi $(l)$(c)perdi$() i soldi che ci hai messo.$(li)Se il claim $(n)scade$() ti viene requisita la proprietà, $(5)$(l)ma potrai riscattarla$().$(li2)$(n)Nota$() se passa troppo tempo da quando il claim è scaduto il claim scompare e tutti gli oggetti di valore saranno $(n)$(c)cancellati!$()"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": {
+				"item": "elysium:claim_monocle"
+			},
+			"text": "Indossa il claim monocle premendo col tasto destro o tienilo semplicemente in mano per vedere i $(n)bordi dei claim$()$(br)$(li)Se indossato verra inserito nello slot head della tricket"
+		},
+		{
+			"type": "patchouli:drawing",
+			"drawing": "elysium:textures/book/elysium_page.png"
+		}
+    ]
+}

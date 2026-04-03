@@ -1,0 +1,17 @@
+{
+    "name": "Denaro",
+	"sortnum": 10,
+    "icon": "numismatic-overhaul:gold_coin",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "I soldi si trovano, una volta aperto l'inventario, nella sacchetta in alto a destra sopra la crafting table $(br)$(li)Per inserire soldi nella sacchetta premi col Destro tendendoli in mano$(li)Per ritirare i soldi usa le freccette nel menù a tendina dopo aver selezionato il valore"
+        },
+		{
+			"type": "patchouli:poster",
+			"text": "Clicca sopra la sacchetta per accedere al menù a tendina",
+			"drawing": "elysium:textures/book/poster.png"
+		}
+    ]
+}

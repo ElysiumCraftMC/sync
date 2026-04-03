@@ -1,0 +1,22 @@
+{
+    "name": "Donatori",
+	"sortnum": 14,
+    "icon": "elysium:claim_monocle",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "$(l:https://www.patreon.com/ElysiumCraft)Donando, supporterai ElysiumCraft!$()$(br)Esistono sono 4 tipi di abbonamento al patreon che ti garatiranno accessori estetici diversi da sfoggiare agli altri giocatori.$(br2)Diventando Fondatore il tuo nome verrà scritto nella Sala dei Ringraziamenti del museo di Eloria e nella Bacheca dei Fondatori."
+        },
+		{
+			"type": "patchouli:itemshow",
+			"drawing": "elysium:textures/book/donator_inventory.png",
+			"item1": "elysium:hat_chooser",
+			"item2": "elysium:effects_chooser",
+			"item3": "elysium:pet_chooser",
+			"text": "Una volta selezionato l'effetto cliccando col tasto destro basta equipaggiare l'item nello slot della trinket."
+		}
+    ]
+}
+
+

@@ -1,0 +1,17 @@
+{
+    "name": "Status",
+	"sortnum": 13,
+    "icon": "artifacts:crystal_heart",
+    "category": "patchouli:guida_introduttiva_category",
+    "pages": [
+		{
+            "type": "text",
+            "text": "Il comando $(2)$(l)/status $()$(3)[BREVE DESCRIZIONE OGGETTIVA]$() permette al giocatore di descrivere lo $(l)stato fisico$() del proprio personaggio.$(br2)La descrizione deve riguardare $(n)$(4)solo ciò che può essere osservato fisicamente$() (ad esempio ferite, postura, o espressione facciale) e $(l)$(4)NON$() $(4)deve includere emozioni o pensieri interiori.$()"
+        },
+		{
+			"type": "text",
+			"text": "Un altro giocatore per leggere il tuo status deve cliccare col destro sul tuo pg. Il giocatore che clicca leggerà \"Noti\", seguito dalla descrizione.$(br2)$(l)Esempio:$() $(2)$(l)/status$() $()$(3)alcune cicatrici visibili sul braccio destro e una lieve zoppia.$()$(br2)$(l)Diventa:$() $(o)Noti alcune cicatrici visibili sul braccio destro e una lieve zoppia."
+		}
+		
+    ]
+}

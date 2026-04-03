@@ -1,0 +1,8 @@
+{
+	"name": "Guida del Viandante",
+	"landing_text": "Questa è una piccola guida introduttiva fuori gioco. $(br2)E' $(n)$(c)severamente vietato$() parlare di questo libro in game con altri player!",
+	"subtitle": "Una guida fuori gioco",
+	"pamphlet": false,
+	"show_progress": false,
+	"creative_tab": "minecraft:transportation"
+}
