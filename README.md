@@ -1,0 +1,1 @@
+This is a repository that stores all client files that needs to be synced to the user clients for ElysiumCraft
