@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "elysium:block/emerald_chest"
+    },
+    "facing=south": {
+      "model": "elysium:block/emerald_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "elysium:block/emerald_chest",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "elysium:block/emerald_chest",
+      "y": 90
+    }
+  }
+}
