@@ -494,6 +494,7 @@
    "effect.elysium.grace.description":"Dummy description",
 
    "item.magistuarmoryaddon.silver_nugget": "Silver Nugget",
-   "block.betterfurnacesreforged.platinum_furnace": "Emerald Furnace"
+   "block.betterfurnacesreforged.platinum_furnace": "Emerald Furnace",
+   "item.betterfurnacesreforged.platinum_furnace": "Emerald Furnace"
 
 }
