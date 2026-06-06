@@ -1,0 +1,48 @@
+{
+	"format_version": "1.19.2",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "elysium:item/rusty_key"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, -90, 55],
+			"translation": [0, 3.5, 0.5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-180, 90, -55],
+			"translation": [0, 3.5, 0.5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 90, -25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"rotation": [15.75, 0, -10.25],
+			"translation": [0.5, 0.25, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, -180, 90]
+		},
+		"head": {
+			"rotation": [180, -90, 90],
+			"translation": [0, 4.25, -6.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -3.25]
+		}
+	}
+}

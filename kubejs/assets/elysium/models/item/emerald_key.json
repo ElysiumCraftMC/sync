@@ -1,0 +1,8 @@
+{
+	"format_version": "1.19.2",
+	"credit": "Made with Blockbench",
+	"parent": "elysium:item/key",
+	"textures": {
+		"layer0": "elysium:item/emerald_key"
+	}
+}
