@@ -1,0 +1,575 @@
+{
+  "schema_version": 5,
+  "trowel": {
+    "enabled": true,
+    "features": {
+      "screen": true,
+      "preview": true,
+      "hud": true
+    },
+    "modes": {
+      "weighted_palette_place": true,
+      "extend_face": true,
+      "row_column": true,
+      "line_place": true,
+      "surface_patch_exposed_only": true,
+      "projector_complete": true,
+      "verifier_ping": true
+    },
+    "palettes": {
+      "masonry": {
+        "id": "masonry",
+        "label": "Masonry",
+        "slots": [
+          {
+            "key": "foundation",
+            "default_weight": 4,
+            "accent_preferred": false,
+            "required": true
+          },
+          {
+            "key": "field",
+            "default_weight": 3,
+            "accent_preferred": false,
+            "required": true
+          },
+          {
+            "key": "trim",
+            "default_weight": 2,
+            "accent_preferred": false,
+            "required": false
+          },
+          {
+            "key": "accent",
+            "default_weight": 1,
+            "accent_preferred": true,
+            "required": false
+          },
+          {
+            "key": "contrast",
+            "default_weight": 1,
+            "accent_preferred": false,
+            "required": false
+          },
+          {
+            "key": "detail",
+            "default_weight": 1,
+            "accent_preferred": false,
+            "required": false
+          }
+        ]
+      }
+    },
+    "tools": {
+      "copper_trowel": {
+        "enabled": true,
+        "durability": 480,
+        "cooldown_ticks": 4,
+        "max_range": 4,
+        "consume_materials": true,
+        "per_use_damage": 1,
+        "ui": {
+          "palette_slot_count": 2,
+          "imprint_support": false,
+          "weight_editing_support": false,
+          "ordering_support": false,
+          "action_selection_support": true
+        },
+        "preview": {
+          "enabled": true,
+          "show_resolved_blocks": true,
+          "show_invalid_targets": true,
+          "show_missing_materials": true,
+          "max_preview_blocks": 20
+        },
+        "actions": [
+          {
+            "type": "weighted_palette_place",
+            "enabled": true,
+            "max_blocks": 1,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "extend_face",
+            "enabled": true,
+            "max_blocks": 20,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "row_column",
+            "enabled": true,
+            "max_blocks": 20,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "line_place",
+            "enabled": true,
+            "max_blocks": 20,
+            "line_length": 20,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": false
+          },
+          {
+            "type": "surface_patch_exposed_only",
+            "enabled": true,
+            "max_blocks": 20,
+            "line_length": 1,
+            "patch_radius": 2,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": true
+          },
+          {
+            "type": "projector_complete",
+            "enabled": true,
+            "max_blocks": 20,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          }
+        ],
+        "default_palette_id": "masonry"
+      },
+      "iron_trowel": {
+        "enabled": true,
+        "durability": 960,
+        "cooldown_ticks": 3,
+        "max_range": 5,
+        "consume_materials": true,
+        "per_use_damage": 1,
+        "ui": {
+          "palette_slot_count": 3,
+          "imprint_support": false,
+          "weight_editing_support": false,
+          "ordering_support": false,
+          "action_selection_support": true
+        },
+        "preview": {
+          "enabled": true,
+          "show_resolved_blocks": true,
+          "show_invalid_targets": true,
+          "show_missing_materials": true,
+          "max_preview_blocks": 24
+        },
+        "actions": [
+          {
+            "type": "weighted_palette_place",
+            "enabled": true,
+            "max_blocks": 1,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "extend_face",
+            "enabled": true,
+            "max_blocks": 40,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "row_column",
+            "enabled": true,
+            "max_blocks": 40,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "line_place",
+            "enabled": true,
+            "max_blocks": 40,
+            "line_length": 40,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": false
+          },
+          {
+            "type": "surface_patch_exposed_only",
+            "enabled": true,
+            "max_blocks": 40,
+            "line_length": 1,
+            "patch_radius": 3,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": true
+          },
+          {
+            "type": "projector_complete",
+            "enabled": true,
+            "max_blocks": 40,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          }
+        ],
+        "default_palette_id": "masonry"
+      },
+      "gold_trowel": {
+        "enabled": true,
+        "durability": 1440,
+        "cooldown_ticks": 2,
+        "max_range": 5,
+        "consume_materials": true,
+        "per_use_damage": 1,
+        "ui": {
+          "palette_slot_count": 4,
+          "imprint_support": false,
+          "weight_editing_support": false,
+          "ordering_support": false,
+          "action_selection_support": true
+        },
+        "preview": {
+          "enabled": true,
+          "show_resolved_blocks": true,
+          "show_invalid_targets": true,
+          "show_missing_materials": true,
+          "max_preview_blocks": 24
+        },
+        "actions": [
+          {
+            "type": "weighted_palette_place",
+            "enabled": true,
+            "max_blocks": 1,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "extend_face",
+            "enabled": true,
+            "max_blocks": 80,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "row_column",
+            "enabled": true,
+            "max_blocks": 80,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "line_place",
+            "enabled": true,
+            "max_blocks": 80,
+            "line_length": 80,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": false
+          },
+          {
+            "type": "surface_patch_exposed_only",
+            "enabled": true,
+            "max_blocks": 80,
+            "line_length": 1,
+            "patch_radius": 4,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": true
+          },
+          {
+            "type": "projector_complete",
+            "enabled": true,
+            "max_blocks": 80,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          }
+        ],
+        "default_palette_id": "masonry"
+      },
+      "diamond_trowel": {
+        "enabled": true,
+        "durability": 3840,
+        "cooldown_ticks": 2,
+        "max_range": 6,
+        "consume_materials": true,
+        "per_use_damage": 1,
+        "ui": {
+          "palette_slot_count": 5,
+          "imprint_support": false,
+          "weight_editing_support": false,
+          "ordering_support": false,
+          "action_selection_support": true
+        },
+        "preview": {
+          "enabled": true,
+          "show_resolved_blocks": true,
+          "show_invalid_targets": true,
+          "show_missing_materials": true,
+          "max_preview_blocks": 24
+        },
+        "actions": [
+          {
+            "type": "weighted_palette_place",
+            "enabled": true,
+            "max_blocks": 1,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "extend_face",
+            "enabled": true,
+            "max_blocks": 160,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "row_column",
+            "enabled": true,
+            "max_blocks": 160,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "line_place",
+            "enabled": true,
+            "max_blocks": 160,
+            "line_length": 160,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": false
+          },
+          {
+            "type": "surface_patch_exposed_only",
+            "enabled": true,
+            "max_blocks": 160,
+            "line_length": 1,
+            "patch_radius": 5,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": true
+          },
+          {
+            "type": "projector_complete",
+            "enabled": true,
+            "max_blocks": 160,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          }
+        ],
+        "default_palette_id": "masonry"
+      },
+      "netherite_trowel": {
+        "enabled": true,
+        "durability": 7680,
+        "cooldown_ticks": 1,
+        "max_range": 6,
+        "consume_materials": true,
+        "per_use_damage": 1,
+        "ui": {
+          "palette_slot_count": 6,
+          "imprint_support": false,
+          "weight_editing_support": false,
+          "ordering_support": false,
+          "action_selection_support": true
+        },
+        "preview": {
+          "enabled": true,
+          "show_resolved_blocks": true,
+          "show_invalid_targets": true,
+          "show_missing_materials": true,
+          "max_preview_blocks": 24
+        },
+        "actions": [
+          {
+            "type": "weighted_palette_place",
+            "enabled": true,
+            "max_blocks": 1,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "extend_face",
+            "enabled": true,
+            "max_blocks": 320,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "row_column",
+            "enabled": true,
+            "max_blocks": 320,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          },
+          {
+            "type": "line_place",
+            "enabled": true,
+            "max_blocks": 320,
+            "line_length": 320,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": false
+          },
+          {
+            "type": "surface_patch_exposed_only",
+            "enabled": true,
+            "max_blocks": 320,
+            "line_length": 1,
+            "patch_radius": 6,
+            "accent_interval": 4,
+            "face_lock": true,
+            "exposed_only": true
+          },
+          {
+            "type": "projector_complete",
+            "enabled": true,
+            "max_blocks": 320,
+            "line_length": 1,
+            "patch_radius": 1,
+            "accent_interval": 4,
+            "face_lock": false,
+            "exposed_only": false
+          }
+        ],
+        "default_palette_id": "masonry"
+      }
+    }
+  },
+  "projector": {
+    "enabled": true,
+    "features": {
+      "screen": true,
+      "preview": true,
+      "capture": true,
+      "capture_overlay": true,
+      "creative_build": true,
+      "blueprint_download_sync": true,
+      "auto_off_on_complete": true
+    },
+    "projection_modes": {
+      "full": true,
+      "single_layer": true,
+      "below_layer": true,
+      "auto_slice": true
+    },
+    "global": {
+      "allowed_formats": [
+        "nbt"
+      ],
+      "activation_cost": {
+        "item_id": "crystaldraft:illusion_shard",
+        "amount": 1
+      },
+      "max_render_distance": 192,
+      "verifier_refresh_ticks": 10,
+      "default_view_preset": "default_ghost",
+      "default_verifier_preset": "builder",
+      "max_active_projectors_per_player": 2,
+      "allow_blueprint_sync_download": true,
+      "max_synced_blueprint_bytes": 2097152,
+      "max_creative_build_placements_per_request": 4096
+    },
+    "view_presets": {
+      "default_ghost": {
+        "id": "default_ghost",
+        "view_mode": "ghost",
+        "opacity": 92,
+        "through_walls": false,
+        "hide_completed": false
+      },
+      "wireframe": {
+        "id": "wireframe",
+        "view_mode": "wireframe",
+        "opacity": 255,
+        "through_walls": true,
+        "hide_completed": false
+      },
+      "mismatch": {
+        "id": "mismatch",
+        "view_mode": "mismatch_overlay",
+        "opacity": 128,
+        "through_walls": true,
+        "hide_completed": true
+      }
+    },
+    "verifier_presets": {
+      "builder": {
+        "id": "builder",
+        "strict_compare": false,
+        "highlight_missing": true,
+        "highlight_wrong": true,
+        "hide_completed": false
+      },
+      "strict": {
+        "id": "strict",
+        "strict_compare": true,
+        "highlight_missing": true,
+        "highlight_wrong": true,
+        "hide_completed": false
+      },
+      "cleanup": {
+        "id": "cleanup",
+        "strict_compare": false,
+        "highlight_missing": true,
+        "highlight_wrong": true,
+        "hide_completed": true
+      }
+    }
+  },
+  "compat": {
+    "goml_claim_protection": true
+  }
+}
