@@ -1,0 +1,34 @@
+{
+    "targets": [
+        "swap",
+        "fade_state"
+    ],
+    "passes": [
+        {
+            "name": "shaderseffects:fadein",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "auxtargets": [
+                {
+                    "name": "FadeSampler",
+                    "id": "fade_state"
+                }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "minecraft:main"
+        },
+        {
+            "name": "shaderseffects:fade_update",
+            "intarget": "fade_state",
+            "outtarget": "swap"
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "fade_state"
+        }
+    ]
+}
