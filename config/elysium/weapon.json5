@@ -3139,7 +3139,11 @@
 		 		"generic.attack_damage": [
 					"17",
 					"0",
-				]
+				],
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
 		 	},
 		 },
 	},
