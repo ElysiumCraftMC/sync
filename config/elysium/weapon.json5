@@ -3134,6 +3134,14 @@
 				]
 		 	},
 		 },
+		 "elysium:infinity_greatsword": {
+		 	modifiers: {
+		 		"generic.attack_damage": [
+					"11.5",
+					"0",
+				]
+		 	},
+		 },
 	},
 }
 
