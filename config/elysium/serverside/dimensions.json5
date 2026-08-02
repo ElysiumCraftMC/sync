@@ -1,0 +1,29 @@
+{
+	// dimensions in which the combat log won't trigger
+	blacklistCombatLog: [ "elysium:war" ],
+
+	// dimensions in which the player will lose hunger
+	allowedHungerInDims: [
+		"elysium:mine",
+		"elysium:heat",
+		"minecraft:overworld",
+	],
+  
+	/*  If returnToSpawn is set to false and atPos is empty, the player just won't die and be left with half-hearth
+	    Every value is optional and will change how it behave
+	    for every dimension add an entry like this, you can omit the fields you aren't using
+	   "minecraft:overworld" : {
+	     returnToSpawn : false,  // when this is enabled, the value of atPos and inDim are ignored and the player is teleported to the world spawn
+	     atPos : [0, 0 , 0], // the position to teleport the player to
+	     inDim : "minecraft:the_end", // the dimension where to teleport the player, if empty uses the current one, if the identifier is wrong, the overworld get used as fallback
+	     withGamemode : "survival", // set the gamemode of the player, if empty keeps the current one, values are: spectator, survival, adventure, creative
+	   },
+	*/
+	onPlayerDeathInDimension: {
+      "elysium:village" : {
+        atPos : [-618, 129, -4914],
+        inDim : "minecraft:overworld",
+        withGamemode : "survival",
+      },
+    },
+}

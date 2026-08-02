@@ -1,0 +1,10 @@
+name = "Asino"
+sortnum = 1
+icon = "minecraft:hay_block"
+image = "elysium:textures/book/asino.png"
+
+description = """
+Equide burlone, detto anche somaro o ciuco. È un animale solitario, particolarmente perspicace e scherzoso: tende infatti a sbeffeggiare il proprio padrone come segno di confidenza e lealtà. Babilio Squiss, druido e massimo esponente dei Ciuchi, diceva sempre: «Mai prendersela per un ciuco, altrimenti il vero ciuco diventi tu».
+
+L'asino si nutre di pesci, non morti e bacche luminose. È un eccellente animale da trasporto ed è estremamente legato al proprio padrone.
+"""

@@ -1,0 +1,10 @@
+name = "Chocobo"
+sortnum = 3
+icon = "minecraft:nether_star"
+image = "elysium:textures/book/chocobo.png"
+
+description = """
+Detto anche «Struzzo Coriandolo», è uno degli uccelli più forti della sua specie. Non brilla però per intelligenza né per ferocia: è infatti una preda abituale di moltissimi animali, persino di altri pennuti. La cromatura variopinta delle sue piume è la sua peculiarità principale.
+
+I chocobo sono soliti correre senza meta, schiantarsi contro i tronchi degli alberi e incastrarvi il becco.
+"""

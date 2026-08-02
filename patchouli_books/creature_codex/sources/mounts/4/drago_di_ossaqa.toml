@@ -1,0 +1,10 @@
+name = "Drago di Ossaqa"
+sortnum = 4
+icon = "minecraft:nether_star"
+image = "elysium:textures/book/drago_di_ossaqa.png"
+
+description = """
+Rettili pericolosissimi, antenati dei draghi verdi delle paludi di Ossaqa. Spietati lucertoloidi dal volto spento e apparentemente vuoto, nascondono un'impetuosa ira e una sorprendente agilità. Si cibano di qualsiasi creatura siano in grado di neutralizzare.
+
+Addestrare un Drago di Ossaqa è una scommessa quotidiana. La loro lealtà è un mistero, poiché il loro sguardo immobile sembra sempre fisso sul mondo che li circonda, persino nel sonno.
+"""

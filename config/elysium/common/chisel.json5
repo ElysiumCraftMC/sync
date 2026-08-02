@@ -1,4 +1,12 @@
 {
+	//old values
+	// tinDurability: 491520,
+	// copperDurability: 983040,
+	// ironDurability: 1966080,
+	// goldDurability: 3932160,
+	// diamondDurability: 7864320,
+	// emeraldDurability: 15728640,
+
 
 	tinDurability: {
 		gross: 49152,

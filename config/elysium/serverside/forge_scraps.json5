@@ -1,0 +1,62 @@
+{
+	enabled: true,
+	// After how many pickup from the smeltery the generic scrap should be dropped
+	dropGenericScrap: 10,
+    
+	// Instructions:
+	// emerald = what the output item should contain in it's ID to give that thing
+	// result = id of what should be given once SuccessesNeededToDrop is reached
+	// startingChange = initial chance of highering the scraps counter
+	// incrementOnFail = when the counter doesn't increase, this value is added to the total chance
+	// SuccessesNeededToDrop = the value the counter needs to reach to cause the *result* item to be dropped and reset the counter
+	materialToScrap: {
+		emerald: {
+			result: "elysium:worn_emerald",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		diamond: {
+			result: "elysium:worn_diamond",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		netherite: {
+			result: "elysium:worn_netherite",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		gold: {
+			result: "elysium:worn_gold",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		silver: {
+			result: "elysium:worn_silver",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		copper: {
+			result: "elysium:worn_copper",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		tin: {
+			result: "elysium:worn_tin",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		iron: {
+			result: "elysium:worn_iron",
+			startingChance: 50,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+	},
+}

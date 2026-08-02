@@ -1,0 +1,10 @@
+name = "Acencia"
+sortnum = 1
+icon = "minecraft:nether_star"
+image = "elysium:textures/book/acencia.png"
+
+description = """
+Le Acence sono felini abitudinari. Appartengono a un habitat fatato tropicale e sono estremamente attratte dalla luce. È consuetudine per le Acence divertirsi rincorrendo lucciole e addormentarsi sotto alberi dalle chiome luminose o sopra di esse, poiché sono agili arrampicatrici.
+
+La loro lealtà è facilmente conquistabile, poiché sono creature curiose e osservatrici. Vivono di caccia e le loro prede naturali sono i pesci oblunghi, le Barzatte di Agropino e gli ovini.
+"""

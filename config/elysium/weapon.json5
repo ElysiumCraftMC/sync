@@ -1,0 +1,3140 @@
+{
+	// Enable the registration of the items with the values modified TEST
+	enable: true,
+	/* An object of `<id_weapon> - <>` pairs, used to change the modifiers of armor.
+	   Example:
+	   "minecraft:iron_sword": {   // id of item
+	   			modifiers: {
+	   				"generic.attack_damage": [  // id of attribute
+	   					"6",			// value
+	   					"0",			// OPERATION  0 -> Addition, 1 -> Multiply base, 2 -> Multiply total
+	   				],
+	   			},
+	   		},
+	*/
+	weapon: {
+		"elysium:bronze_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+				"generic.durability": [
+					"200",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:gold_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+							"3940",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:gold_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+							"3940",
+					"0",
+				],
+			},
+		},
+				"elysium:copper_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+
+						"elysium:tin_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"mythicmobs:kobold_spear": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-4.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0.01",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.44",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_novice": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:arcane": [
+					"0.75",
+					"0",
+				],
+				"spell_power:fire": [
+					"0.75",
+					"0",
+				],
+				"spell_power:healing": [
+					"0.75",
+					"0",
+				],
+				"spell_power:frost": [
+					"0.75",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"minecraft:golden_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.91",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_arcane_t3": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_arcane_t2": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"2.25",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_arcane_t1": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"1.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.242990493774414",
+					"0",
+				],
+			},
+		},
+		"elysium:steel_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-1",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"minecraft:golden_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_fire": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:fire": [
+					"2.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-1",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:pitchfork": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_arcane_t5": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"4.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:iron_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_arcane_t4": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"3.75",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.97",
+					"0",
+				],
+			},
+		},
+		"elysium:steel_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.31",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.91",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_netherite_frost": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:frost": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.09",
+					"0",
+				],
+			},
+		},
+		"treeaxe:diamond_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"7680",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_fire": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:fire": [
+					"2.0",
+					"0",
+				],
+				"spell_power:haste": [
+					"0.5",
+					"1",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"1850",
+					"0",
+				],
+			},
+		},
+		"minecraft:iron_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"bakery:rolling_pin": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.95",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.2",
+					"0",
+				],
+			},
+		},
+		"elysium:silver_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"9.52",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.9",
+					"0",
+				],
+				"generic.attack_damage": [
+					"9.3",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:bronze_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.990653991699219",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"wizards:staff_netherite_arcane": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"5.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"minecraft:iron_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"minecraft:wooden_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.85",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.0",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.81",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.02",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.05",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.2",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.85",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.98",
+					"0",
+				],
+			},
+		},
+		"treeaxe:wooden_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_frost_t4": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"3.75",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.95",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.98",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_frost_t5": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"4.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"elysium:silver_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_frost_t2": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"2.25",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.85",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.28",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_frost_t3": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_frost_t1": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"1.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.85",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.98",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:stone_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.495326995849609",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+			},
+		},
+		"minecraft:wooden_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"treeaxe:emerald_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"15360",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.97",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.59",
+					"0",
+				],
+			},
+		},
+		"minecraft:wooden_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.09",
+					"0",
+				],
+			},
+		},
+		"minecraft:golden_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"minecraft:golden_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.77",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.37",
+					"0",
+				],
+			},
+		},
+		"bakery:bread_knife": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.738317489624023",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"9.728971481323242",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.25",
+					"0",
+				],
+			},
+		},
+		"elysium:saw": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_netherite_fire": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:fire": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.63",
+					"0",
+				],
+			},
+		},
+		"paladins:holy_staff": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"4.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.1",
+					"0",
+				],
+				"generic.attack_damage": [
+					"10.98",
+					"0",
+				],
+			},
+		},
+		"minecraft:wooden_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.16",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.95",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.2",
+					"0",
+				],
+			},
+		},
+		"treeaxe:netherite_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"15360",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.233644485473633",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_frost": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:frost": [
+					"2.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:silver_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.84",
+					"0",
+				],
+				"generic.attack_damage": [
+					"9.99",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.31",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.990653991699219",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:rusted_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"paladins:netherite_holy_staff": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"5.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.74",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.4",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"treeaxe:copper_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.85",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.89",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:club": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.2",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-0.9",
+					"0",
+				],
+				"generic.durability": [
+					"940",
+					"0"
+				]
+			},
+		},
+		"elysium:staff_fire_t2": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"2.25",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_fire_t3": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.495326995849609",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_fire_t1": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"1.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"elysium:steel_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.84",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:rusted_bastardsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.738317489624023",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.69",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:diamond_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+								"generic.durability": [
+					"7680",
+					"0",
+				],
+			},
+		},
+		"treeaxe:amethyst_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"4260",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"minecraft:iron_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-1",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:bronze_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"200",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_fire_t4": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"3.75",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"wizards:staff_frost": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"4.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:silver_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_fire_t5": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"4.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"wizards:staff_netherite_frost": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:frost": [
+					"5.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:diamond_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.03",
+					"0",
+				],
+			},
+		},
+		"elysium:silver_hoe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-1",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"minecraft:iron_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_holy_t1": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"1.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:iron_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.75",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.88",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.68",
+					"0",
+				],
+			},
+		},
+		"paladins:holy_wand": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:healing": [
+					"2.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"10.76",
+					"0",
+				],
+			},
+		},
+		"mcdw:spear_venom_glaive": {
+			modifiers: {
+					"generic.attack_damage": [
+					"15",
+					"0",
+				],
+			},
+		},
+		"elysium:steel_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+			},
+		},
+		"davespotioneering:rudimentary_gauntlet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.0",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_holy_t2": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"2.25",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_holy_t3": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.9",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.92",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_holy_t4": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"3.75",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"elysium:staff_holy_t5": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:healing": [
+					"4.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_frost": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:haste": [
+					"0.5",
+					"1",
+				],
+				"spell_power:frost": [
+					"2.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"1850",
+					"0",
+				],
+			},
+		},
+		"wizards:staff_fire": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"4.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"farmersdelight:skillet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"treeaxe:gold_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"3940",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.81",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.68",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.03",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.95",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.28",
+					"0",
+				],
+			},
+		},
+		"elysium:steel_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:copper_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.19",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_arcane": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:arcane": [
+					"2.0",
+					"0",
+				],
+				"spell_power:haste": [
+					"0.5",
+					"1",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"1850",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:silver_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.09",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.84",
+					"0",
+				],
+				"generic.attack_damage": [
+					"11.3",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.31",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_netherite_arcane": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:arcane": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"paladins:acolyte_wand": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:healing": [
+					"1.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"60",
+					"0",
+				],
+			},
+		},
+		"mcdw:hammer_stormlander": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-0.5",
+					"0",
+				],
+				"generic.durability": [
+					"1000",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.5",
+					"0",
+				],
+			},
+		},
+		"minecraft:golden_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+			},
+		},
+		"minecraft:diamond_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.38",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_shortsword": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.34",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_morgenstern": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.75",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+			},
+		},
+		"elysium:blacksmith_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_shovel": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_ranseur": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.929999828338623",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.738317489624023",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:wood_stylet": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.75",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:steel_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.81",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.68",
+					"0",
+				],
+			},
+		},
+		"minecraft:stone_axe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"131",
+					"0",
+				],
+			},
+		},
+		"wizards:staff_netherite_fire": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:fire": [
+					"5.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_fire": {
+			modifiers: {
+				"spell_power:fire": [
+					"20.0",
+					"0",
+				],
+			},
+		},
+		"spellbladenext:orb_arcane": {
+			modifiers: {
+				"spell_power:arcane": [
+					"20.0",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.31",
+					"0",
+				],
+			},
+		},
+		"minecraft:iron_pickaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.8",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:blacksmith_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_claymore": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.81",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.71",
+					"0",
+				],
+			},
+		},
+		"wizards:wand_arcane": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:arcane": [
+					"2.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"wizards:staff_arcane": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"4.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:tin_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"4.63",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:netherite_katzbalger": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.5",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"8.56",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:diamond_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-2",
+					"0",
+				],
+								"generic.durability": [
+					"7680",
+					"0",
+				],
+			},
+		},
+		"treeaxe:iron_treeaxe": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"paladins:netherite_holy_wand": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"spell_power:healing": [
+					"3.0",
+					"0",
+				],
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"minecraft:netherite_sword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"6.5",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:iron_heavymace": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.95",
+					"0",
+				],
+				"generic.attack_damage": [
+					"7.56",
+					"0",
+				],
+			},
+		},
+		"elysium:tin_flute": {
+			modifiers: {
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"elysium:copper_flute": {
+			modifiers: {
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"elysium:iron_flute": {
+			modifiers: {
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"elysium:gold_flute": {
+			modifiers: {
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"elysium:diamond_flute": {
+			modifiers: {
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"elysium:diamond_flute": {
+			modifiers: {
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"onlyhammersandexcavators:emerald_excavator": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.4",
+					"0",
+				],
+				"generic.attack_damage": [
+					"0",
+					"0",
+				],
+				"generic.durability": [
+					"15360",
+					"0",
+				],
+			},
+		},
+		"soulsweapons:guts_sword": {
+			modifiers: {
+				"generic.attack_damage": [
+					"5",
+					"0",
+				]
+			},
+		},
+		"soulsweapons:forlorn_scythe": {
+			modifiers: {
+				"generic.attack_damage": [
+					"5",
+					"0",
+				]
+			},
+		},
+		"onlyhammersandexcavators:emerald_hammer": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3",
+					"0",
+				],
+				"generic.attack_damage": [
+					"-4",
+					"0",
+				],
+				"generic.durability": [
+					"15360",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:gold_shortsword": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-2.3",
+					"0",
+				],
+				"generic.piercing": [
+					"20",
+					"0",
+				],
+				"generic.attack_damage": [
+					"5.92",
+					"0",
+				],
+			},
+		},
+		"elysium:infinity_staff": {
+			modifiers: {
+				"generic.attack_speed": [
+					"-3.0",
+					"0",
+				],
+				"spell_power:arcane": [
+					"5.5",
+					"0",
+				],
+				"spell_power:fire": [
+					"5.5",
+					"0",
+				],
+				"spell_power:frost": [
+					"5.5",
+					"0",
+				],
+				"spell_power:healing": [
+					"5.5",
+					"0",
+				],
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		 "elysium:infinity_knife": {
+		 	modifiers: {
+		 		"generic.piercing": [
+		 			"20",
+		 			"0",
+		 		],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+				"generic.attack_speed": [
+					"-2.2",
+					"0",
+				],
+				"generic.attack_damage": [
+					"18",
+					"0",
+				]
+		 	},
+		 },
+	},
+}
+
+

@@ -1,0 +1,10 @@
+name = "Cuccioli di Drago"
+sortnum = 3
+icon = "minecraft:dragon_egg"
+image = "elysium:textures/book/cuccioli_di_drago.png"
+
+description = """
+Erroneamente chiamati dai popolani «viverne», sono in realtà cuccioli di drago che, raggiunta una certa età, non riescono più ad aumentare la propria stazza. Vivono nelle Terre Rosse Aride e si organizzano in branchi. La loro caccia è su larga scala ma periodica, così da rifornire le colonie di pesci, castosci, chocobo, coboldi e becchi.
+
+La loro lealtà raramente è immediata, ma può essere conquistata. L'affetto che dimostrano a chi li circonda può risultare violento e persino pericoloso. Nonostante ciò, sanno essere ottimi destrieri e compagni fondamentali nei lunghi viaggi.
+"""

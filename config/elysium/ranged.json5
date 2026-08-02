@@ -1,0 +1,360 @@
+{
+	// Enable the registration of the items with the values modified
+	enable: true,
+	/* An object of `<id_ranged> - <>` pairs, used to change the modifiers of ranged bow or arrow.
+	   Example:
+	   "minecraft:bow": {   // id of item
+	   			modifiers: {
+	   				"generic.durability": [  // id of attribute
+	   					"6",			// value
+	   				],
+	   			},
+	   		},
+	*/
+	ranged: {
+		"mcdw:bow_longbow": {
+			modifiers: {
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_echo_of_the_valley": {
+			modifiers: {
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"projectiles:bone_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.5",
+					"0",
+				],
+			},
+		},
+		"projectiles:cobweb_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"0.5",
+					"0",
+				],
+			},
+		},
+		"projectiles:copper_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"3.0",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:villager_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"3.0",
+					"0",
+				],
+			},
+		},
+		"projectiles:echo_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+			},
+		},
+		"projectiles:bamboo_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_hunters_promise": {
+			modifiers: {
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_purple_storm": {
+			modifiers: {
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"projectiles:netherite_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"7.0",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_lost_souls": {
+			modifiers: {
+				"generic.durability": [
+					"2160",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_trickbow": {
+			modifiers: {
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:bow_gold": {
+			modifiers: {
+				"generic.durability": [
+					"960",
+					"0",
+				],
+			},
+		},
+		"minecraft:arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_shortbow": {
+			modifiers: {
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"projectiles:slime_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+			},
+		},
+		"projectiles:prismarine_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"4.5",
+					"0",
+				],
+			},
+		},
+		"projectiles:wood_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+			},
+		},
+		"magistuarmory:longbow": {
+			modifiers: {
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:barbed_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"3.0",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_red_snake": {
+			modifiers: {
+				"generic.durability": [
+					"1440",
+					"0",
+				],
+			},
+		},
+		"projectiles:tnt_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.5",
+					"0",
+				],
+			},
+		},
+		"projectiles:soul_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"minecraft:tipped_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"projectiles:gold_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"5.0",
+					"0",
+				],
+			},
+		},
+		"projectiles:obsidian_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"5.0",
+					"0",
+				],
+			},
+		},
+		"adventurez:ivory_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"6.0",
+					"0",
+				],
+			},
+		},
+		"supplementaries:rope_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:bow_iron": {
+			modifiers: {
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_snow_bow": {
+			modifiers: {
+				"generic.durability": [
+					"240",
+					"0",
+				],
+			},
+		},
+		"projectiles:chorus_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"0.5",
+					"0",
+				],
+			},
+		},
+		"projectiles:amethyst_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"3",
+					"0",
+				],
+			},
+		},
+		"mcdw:bow_wind_bow": {
+			modifiers: {
+				"generic.durability": [
+					"480",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:bow_leather": {
+			modifiers: {
+				"generic.durability": [
+					"120",
+					"0",
+				],
+			},
+		},
+		"skeletalremains:tidal_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"projectiles:nether_quartz_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"3.5",
+					"0",
+				],
+			},
+		},
+		"minecraft:spectral_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"2.0",
+					"0",
+				],
+			},
+		},
+		"projectiles:iron_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"4.0",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:bow_netherite": {
+			modifiers: {
+				"generic.durability": [
+					"3840",
+					"0",
+				],
+			},
+		},
+		"projectiles:ender_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"1.0",
+					"0",
+				],
+			},
+		},
+		"archers_arsenal:bow_diamond": {
+			modifiers: {
+				"generic.durability": [
+					"1920",
+					"0",
+				],
+			},
+		},
+		"projectiles:diamond_arrow": {
+			modifiers: {
+				"generic.attack_damage": [
+					"6.0",
+					"0",
+				],
+			},
+		},
+	},
+}

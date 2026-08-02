@@ -1,0 +1,26 @@
+{
+	// Fire Endurance
+	"fire_endurance_bonus": -0.10000000149011612,
+	// Strength
+	strength: 0.10000000149011612,
+	// Weakness
+	"weakness_malus": -0.10000000149011612,
+	// Fire Spell Power 
+	"fire_spell_power_bonus": 0.10000000149011612,
+	// Frost Spell Power 
+	"frost_spell_power_bonus": 0.10000000149011612,
+	// Arcane Spell Power
+	"arcane_spell_power_bonus": 0.10000000149011612,
+	// Holy Spell Power
+	"holy_spell_power_bonus": 0.10000000149011612,
+	// Impact
+	"impact_power_bonus": 0.10000000149011612,
+	// Critical Damage
+	"critical_damage_power_bonus": 0.10000000149011612,
+	// Critical Chance
+	"critical_chance_power_bonus": 0.10000000149011612,
+	// Haste Spell
+	"haste_spell_power_bonus": 0.10000000149011612,
+	// Strenght 2
+	strenght2: 0.4000000059604645,
+}

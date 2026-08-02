@@ -1,0 +1,10 @@
+name = "Nottole Giganti"
+sortnum = 4
+icon = "minecraft:dragon_egg"
+image = "elysium:textures/book/nottole_giganti.png"
+
+description = """
+Pipistrelli di dimensioni imponenti che si cibano di insetti, non morti e bacche luminose che crescono nell'oscurità. Sono creature estremamente docili con gli esseri umani e diffidenti verso coloro che, come loro, vedono bene al buio.
+
+Il primo passo per permettere a una Nottola Gigante di vivere serenamente è abituarla gradualmente alla luce del sole. Sono in grado di trasportare lettere, riconoscere i volti delle persone e, naturalmente, possiedono una straordinaria visione notturna.
+"""

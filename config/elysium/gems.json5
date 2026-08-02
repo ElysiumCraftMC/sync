@@ -1,0 +1,195 @@
+{
+	/* An object of `<id_attribute> - <>` pairs, used to change the attribute of gems.
+	   The number of gems is limited, please do not change the name, only the values.
+	   Example:
+	   gems: {
+	   	"melee_knockback": [
+	   		0.2,
+	   		0.4,
+	   		0.6,
+	   		0.8,
+	   		1.0,
+
+
+
+	   	],
+	   }
+	*/
+	gems: {
+		"melee_knockback": [
+			0.2,
+			0.4,
+			0.6,
+			0.8,
+			1.0,
+		],
+		reach: [
+			0.5,
+			1.0,
+			1.5,
+			2.0,
+			2.5,
+		],
+		"magic_resist": [
+			0.15,
+			0.2,
+			0.25,
+			0.3,
+			0.35,
+		],
+		"attack_speed": [
+			0.05,
+			0.1,
+			0.15,
+			0.2,
+			0.25,
+		],
+		"ranged_durability": [
+			240.0,
+			480.0,
+			960.0,
+			1920.0,
+			3840.0,
+		],
+		"melee_damage": [
+			0.5,
+			1.0,
+			1.5,
+			2.0,
+			2.5,
+		],
+		"spell_power": [
+			0.4,
+			0.8,
+			1.2,
+			1.6,
+			2.0,
+		],
+		"dig_speed": [
+			0.2,
+			0.3,
+			0.4,
+			0.5,
+			0.6,
+		],
+		"melee_critical_chance": [
+			0.1,
+			0.15,
+			0.2,
+			0.25,
+			0.3,
+		],
+		"magic_durability": [
+			240.0,
+			480.0,
+			960.0,
+			1920.0,
+			3840.0,
+		],
+		"melee_durability": [
+			240.0,
+			480.0,
+			960.0,
+			1920.0,
+			3840.0,
+		],
+		"magic_critical_chance": [
+			5.0,
+			10.0,
+			15.0,
+			20.0,
+			25.0,
+		],
+		"armor_durability": [
+			240.0,
+			480.0,
+			960.0,
+			1920.0,
+			3840.0,
+		],
+		"ranged_damage": [
+			0.5,
+			1.0,
+			1.5,
+			2.0,
+			2.5,
+		],
+		"ranged_critical_damage": [
+			0.05,
+			0.1,
+			0.15,
+			0.2,
+			0.25,
+		],
+		haste: [
+			0.1,
+			0.2,
+			0.3,
+			0.4,
+			0.5,
+		],
+		"quick_charge": [
+			0.1,
+			0.2,
+			0.3,
+			0.4,
+			0.5,
+		],
+		"melee_critical_damage": [
+			0.05,
+			0.1,
+			0.15,
+			0.2,
+			0.25,
+		],
+		"movement_speed": [
+			0.01,
+			0.02,
+			0.03,
+			0.04,
+			0.05,
+		],
+		armor: [
+			1.0,
+			2.0,
+			3.0,
+			4.0,
+			5.0,
+		],
+		"tool_durability": [
+			240.0,
+			480.0,
+			960.0,
+			1920.0,
+			3840.0,
+		],
+		"ranged_knockback": [
+			0.2,
+			0.4,
+			0.6,
+			0.8,
+			1.0,
+		],
+		"ranged_critical_chance": [
+			0.1,
+			0.15,
+			0.2,
+			0.25,
+			0.3,
+		],
+		"armor_knockback": [
+			0.2,
+			0.3,
+			0.4,
+			0.5,
+			0.6,
+		],
+		"magic_critical_damage": [
+			5.0,
+			10.0,
+			15.0,
+			20.0,
+			25.0,
+		],
+	},
+}

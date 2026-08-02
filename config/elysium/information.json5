@@ -1,0 +1,28 @@
+{
+	enable: true,
+	// Specify as "modid:id_item":"information"
+	items: {
+		"jewelry:iron_ring": "Un anello magico in grado di potenziare gli incantesimi di un mago novizio",
+		"elysium:core_fragment": "Un misterioso frammento del nucleo magico che anima i mostri dell'Abisso",
+		"elysium:artifact_bag": "Il risultato della trasmutazione di un antico artefatto, il contenuto \u00e8 misterioso",
+		"elysium:compass": "Bussola Incantata che indicher\u00E0 sempre una posizione scelta.",
+		"elysium:vestigia": "Pura essenza dei mostri sconfitti in questo regno, permette di risvegliare il vero potere di alcuni oggetti.",
+		"elysium:core": "Agglomerato di Frammenti ottenuto da una trasmutazione.",
+		"elysium:artifact_fragment": "Reminiscenza di magia, racchiude in se un potere sconosciuto.",
+		"elysium:sapling_bag": "Contiene al suo interno degli Arboscelli andati perduti, \u00E8 l'unico modo per ottenerli.",
+		"goml:makeshift_claim_anchor": "Concessione da parte del Re, protegge il terreno che circonda dai ladri, ma non dalle loro spade.", 
+	},
+	blocks: {
+		"summoningrituals:altar": "Un altare dove l'Alchimista pu\u00f2 trasmutare oggetti",
+		"candlelight:cobblestone_stove": "Utile per riscaldare il pentolino dove fare le marmellate",
+		"candlelight:oak_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+ 		"candlelight:birch_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:spruce_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:dark_oak_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:acacia_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:jungle_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:mangrove_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:warped_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+		"candlelight:crimson_big_table": "Permette ad un Carpentiere di lavorare con i suoi scalpelli.",
+	},
+}

@@ -1,0 +1,10 @@
+name = "Destrieri della Cenere"
+sortnum = 5
+icon = "minecraft:nether_star"
+image = "elysium:textures/book/destrieri_della_cenere.png"
+
+description = """
+Chiamati anche «Cavalli Fucina» dal fabbro Peppe Lestruo, sono equini maestosi e pieni di sé. Le loro criniere illuminano il dorso con lingue di fuoco dalle molteplici sfumature. Sono tra le creature più sagge e orgogliose esistenti.
+
+Le loro prede naturali sono le rane Shamarende, le lepri dai denti a sciabola e gli Ent. Ogni creatura che incontri un Destriero della Cenere si inchina davanti a tale possenza. Nonostante le fiamme che emanano, queste creature rispettano profondamente la natura e vegliano con attenzione sull'ambiente che le circonda. Preferiscono vivere in branco sulle Colline Gialle.
+"""

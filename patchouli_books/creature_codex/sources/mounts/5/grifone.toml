@@ -1,0 +1,10 @@
+name = "Grifone"
+sortnum = 2
+icon = "minecraft:dragon_egg"
+image = "elysium:textures/book/grifone.png"
+
+description = """
+Detti anche «Piumati da Guerra», sono uccelli le cui dimensioni possono raggiungere quelle di un cavallo. Vengono addestrati per combattere e vivono nei regni utopici di Zarathustra. Difendono i Giardini Maeserei con la loro imponenza e con un volo rapido quanto una magia arcana. Si cibano di nebbia oscura, mimic e piovre del Mare di Senfranc.
+
+Ogni volta che salirai in groppa a un grifone, ricorda sempre una cosa: se cadrai, lui raggiungerà comunque la sua destinazione senza voltarsi indietro.
+"""

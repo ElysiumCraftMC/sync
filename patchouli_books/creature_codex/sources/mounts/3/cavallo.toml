@@ -1,0 +1,10 @@
+name = "Cavallo"
+sortnum = 1
+icon = "minecraft:golden_apple"
+image = "elysium:textures/book/cavallo.png"
+
+description = """
+L'equino vanitoso. Sempre pronto a galoppare in branco là dove il sole incontra la terra, è una creatura immensamente fiera. Conquistare la fiducia di un cavallo può essere molto difficile, soprattutto se quest'ultimo non considera il tuo ego all'altezza del proprio. Tra gli equini, è la razza più narcisista e altezzosa.
+
+Vive in branchi nomadi e predilige i climi miti. È solito percorrere lunghe distanze attraverso montagne desolate e, durante i suoi viaggi, si nutre di foglie di alloro, uva e datteri.
+"""

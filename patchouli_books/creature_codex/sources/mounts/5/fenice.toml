@@ -1,0 +1,10 @@
+name = "Fenice"
+sortnum = 1
+icon = "minecraft:dragon_egg"
+image = "elysium:textures/book/fenice.png"
+
+description = """
+Le fenici sono pennuti di grande stazza e particolarmente chiassosi. Si legano a un solo padrone per decenni e, quando smettono di «chiacchierare» con lui, decidono di andarsene e cercarne un altro. Le loro penne sono oggetto di studio per alchimisti e medici, poiché contengono antidoti contro numerosi veleni e vengono utilizzate per benedire le abitazioni, allontanando la malasorte.
+
+Le fenici si cibano abitualmente di semi di ogni tipo e di cacao. Se temete l'abbandono da parte di una fenice, sappiate che sono genuinamente attratte dai lunghi dialoghi. Sono uccelli estremamente empatici e costantemente in cerca di attenzioni per sentirsi vivi. Parlare con loro vi renderà più vicini.
+"""

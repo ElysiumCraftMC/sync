@@ -1,0 +1,165 @@
+{
+	// Additional (debug) logging switches
+	logging: {
+		// Additional logging for the claim anchor taxes mechanic
+		claimAnchor: false,
+		// Additional logging for the claim anchor's screen
+		claimAnchorScreen: false,
+		// Additional logging for the virtual resource pack
+		virtualResourcePack: false,
+		// Additional logging for the changing of a player's gamemode when changing dimension
+		dimensionalGamemode: false,
+		// Additional logging for the blocking of experience
+		experienceBlocker: false,
+	},
+	// Feature switches, used to (dis|en)able entire features
+	features: {
+		// Reload players origins when the server reload the datapacks
+		reloadOrigins: true,
+		// Invasive modifications to goml's claim system to allow taxes ( Using new blocks is too easy :3 )
+		claimModifications: true,
+		// DreamingCode's edits to goml, reimplemented as mixins
+		dreamingGomlFixes: true,
+		// Disables the spawning of mobs in the overworld
+		disableMobSpawning: true,
+		// Toggles the forced gamemode upon changing dimension
+		forceDimensionalGamemode: true,
+		// Disable exp gathering and most of its usages
+		disableExperience: true,
+		// Disable the player list
+		disablePlayerList: true,
+		// Disable the join/leave messages
+		disableSystemMessages: true,
+		// Check client's mods before starting/login, not allowing if fails
+		modListCheck: true,
+	},
+	// Claim settings
+	claims: {
+		// The center block position of the spawn
+		spawnPosition: "-426, 76, -4859",
+		// The y distance between claims borders, this option depends on dreamingGomlFixes
+		yDistanceBetweenBorders: 100,
+		// The xz distance between claims borders, this option depends on dreamingGomlFixes
+		xzDistanceBetweenBorders: 9,
+		// Tax-related configurations
+		taxes: {
+			// The minimum tax fee
+			minimumFee: 3,
+			// The maximum tax fee
+			maximumFee: 19,
+			// The base distance where the tax should start decrease
+			startDistanceDecrease: 700,
+			// After this distance the taxes will all the same
+			finalDistanceDecrease: 1500,
+			// Time in seconds that the input slot takes to switch to the next item, -1 to never switch
+			claimScreenInputCycleTime: 5,
+		},
+		// After how many days the admin claim drops
+		daysAfterAdminClaim: 10,
+		// After how many hours the inactive claim pops
+		hourInactiveClaim: 2.0,
+		// Duration of carpenter contract
+		carpenterContractDays: 5,
+	},
+	/* Settings for the experience blocker, each dimension may have its settings, or use the default one ( via the `elysium:default` key ).
+	   Example:
+	   ```json5
+	   // the dimension's registry key, or `elysium:default`
+	   "elysium:default": {
+	       // Blocks the dropping of xp in this dimension
+	       enable: true,
+	       // Allow furnaces to drop xp
+	       allowFurnaceExp: true,
+	       // Allow xp bottles to drop xp
+	       allowBottledExp: true,
+	       // Array of mob ids allowed to drop xp anyway,
+	       // you can use `elysium:hostile` and `elysium:animal` to have a sort of "wildcard allow"
+	       allowedMobSources: [
+	           "elysium:hostile",
+	           "elysium:animal",
+	       ],
+	   },
+	   ```
+	*/
+	experienceSettings: {
+		"elysium:default": {
+			// Blocks the dropping of xp in this dimension
+			enable: true,
+			// Allow furnaces to drop xp
+			allowFurnaceExp: false,
+			// Allow xp bottles to drop xp
+			allowBottledExp: true,
+			/* Array of mob ids allowed to drop xp anyway,
+			   you can use `elysium:hostile` and `elysium:animal` to have a sort of "wildcard allow"
+			*/
+			allowedMobSources: [],
+		},
+		"elysium:dark": {
+			// Blocks the dropping of xp in this dimension
+			enable: true,
+			// Allow furnaces to drop xp
+			allowFurnaceExp: false,
+			// Allow xp bottles to drop xp
+			allowBottledExp: true,
+			/* Array of mob ids allowed to drop xp anyway,
+			   you can use `elysium:hostile` and `elysium:animal` to have a sort of "wildcard allow"
+			*/
+			allowedMobSources: [],
+		},
+	},
+	/* An object of `<dimension> - <gamemode>` pairs, used to force a gamemode upon world change.
+	   The default gamemode is given from the `elysium:default` key-value.
+	*/
+	dimensionGamemodes: {
+		"elysium:default": "survival",
+		"elysium:mine": "adventure",
+		"elysium:heat": "adventure",
+		"elysium:dark": "adventure",
+		"elysium:arena": "adventure",
+		"elysium:war": "adventure",
+		"elysium:soccer": "adventure",
+		"elysium:village": "adventure",
+		"minecraft:the_end": "adventure",
+	},
+	// Configuration for the ""simple"" anti-cheat
+	antiCheat: {
+		/* An array of blocked or !required mod ids.
+		   Example:
+		   ```json5
+		   mods: [ "journeymap", "!elysium" ],
+		   ```
+		*/
+		mods: [
+			"jadeaddons",
+			"wthit",
+			"xaerominimap",
+			"xaerominimapfair",
+			"xaeroworldmap",
+			"litematica_printer",
+			"litemoretica",
+		],
+		/* An array of blocked or !required classes.
+		   Example:
+		   ```json5
+		   classes: [ "journeymap.client.JourneymapClient", "!com.enderzombi102.elysium.Elysium", ],
+		   ```
+		*/
+		classes: [],
+	},
+	// Health of donkey
+	donkeyHealth: 20.0,
+	// Health of mule
+	muleHealth: 30.0,
+	// Health of horse
+	horseHealth: 40.0,
+	// Speed of donkey
+	donkeySpeed: 0.18000000715255737,
+	// Speed of mule
+	muleSpeed: 0.2200000137090683,
+	// Speed of horse
+	horseSpeed: 0.25999999046325684,
+	// Speed of mystic creatures
+	mysticSpeed: 0.3100000023841858,
+	// Time kick player
+	afkPlayer: 1800
+}

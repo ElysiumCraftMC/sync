@@ -1,0 +1,103 @@
+# Creature Codex configuration
+
+# Output folder prefix — books are written to <output_prefix>_t0, _t1, etc.
+output_prefix = "creature_codex"
+
+# Number of tiers (0 through 5)
+num_tiers = 6
+
+# Patchouli namespace for category IDs
+namespace = "patchouli"
+
+# Creature type categories (one per book)
+[[category]]
+id = "mounts"
+name = "Cavalcature"
+description = "Possenti creature, abbastanza forti dal sorreggere il peso di un araldo e dal carattere ottimale per essere ammaestrate"
+icon = "minecraft:saddle"
+
+[[category]]
+id = "animals"
+name = "Animali"
+description = "Creature terrestri che popolano le terre. Familiari e diffusi, sono spesso i primi compagni di un viandante"
+icon = "minecraft:bone"
+
+[[category]]
+id = "fishes"
+name = "Pesci"
+description = "Creature acquatiche che vivono nei mari e fiumi del regno, un'ottima fonte di proteine"
+icon = "minecraft:tropical_fish"
+
+# Tier metadata (0–5)
+[[tier]]
+num = 0
+name = "Rango Zero"
+description = "Le creature più umili. Animali e pesci comuni, facili da avvicinare ma non per questo meno degni di rispetto"
+icon = "minecraft:fish"
+
+[[tier]]
+num = 1
+name = "Tomo I"
+description = "Le creature di primo grado. Familiari e diffuse, sono spesso le prime con cui un viandante stabilisce un legame"
+icon = "minecraft:hay_block"
+
+[[tier]]
+num = 2
+name = "Tomo II"
+description = "Le creature di secondo grado. Richiedono più attenzione e dedizione, ma sanno ricompensare chi si avvicina con sincerità"
+icon = "minecraft:wheat"
+
+[[tier]]
+num = 3
+name = "Tomo III"
+description = "Le creature di terzo grado. Incontrarle non è comune: richiedono rispetto e pazienza prima di considerarti degno della loro compagnia"
+icon = "minecraft:golden_apple"
+
+[[tier]]
+num = 4
+name = "Tomo IV"
+description = "Le creature di quarto grado. Esseri fantastici di grande potere. Sono loro a decidere chi è degno del loro legame"
+icon = "minecraft:nether_star"
+
+[[tier]]
+num = 5
+name = "Tomo V"
+description = "Le creature di quinto grado. Leggende viventi, dono divino. Solo i più degni potranno sperare di stabilire un legame con esse"
+icon = "minecraft:dragon_egg"
+
+# Book metadata (one per tier)
+[[book]]
+num = 0
+name = "Codex delle Creature"
+landing_text = "Il volume base del Codex delle Creature.$(br2)Questo volume raccoglie le creature più umili del regno: animali e pesci comuni, facili da avvicinare ma non per questo meno degni di rispetto."
+subtitle = "Grado Zero"
+
+[[book]]
+num = 1
+name = "Codex delle Creature | Tomo I"
+landing_text = "Il primo tomo del Codex delle Creature, tramandato dal druido arcano Robb Vertiss.$(br2)Questo volume raccoglie le creature di $(l)Primo Grado$(): le più umili, ma non per questo meno degne di rispetto."
+subtitle = "Primo Grado"
+
+[[book]]
+num = 2
+name = "Codex delle Creature | Tomo II"
+landing_text = "Il secondo tomo del Codex delle Creature, tramandato dal druido arcano Robb Vertiss.$(br2)Questo volume raccoglie le creature di $(l)Primo$() e $(l)Secondo Grado$(). Studia con cura prima di avvicinarti a queste bestie."
+subtitle = "Primo e Secondo Grado"
+
+[[book]]
+num = 3
+name = "Codex delle Creature | Tomo III"
+landing_text = "Il terzo tomo del Codex delle Creature, tramandato dal druido arcano Robb Vertiss.$(br2)Questo volume raccoglie le creature dal $(l)Primo$() al $(l)Terzo Grado$(). La pazienza è la virtù del domatore."
+subtitle = "Dal Primo al Terzo Grado"
+
+[[book]]
+num = 4
+name = "Codex delle Creature | Tomo IV"
+landing_text = "Il quarto tomo del Codex delle Creature, tramandato dal druido arcano Robb Vertiss.$(br2)Questo volume raccoglie le creature dal $(l)Primo$() al $(l)Quarto Grado$(). Avvicinarsi a queste creature richiede rispetto e audacia."
+subtitle = "Dal Primo al Quarto Grado"
+
+[[book]]
+num = 5
+name = "Codex delle Creature | Tomo V"
+landing_text = "Il quinto e ultimo tomo del Codex delle Creature, tramandato dal druido arcano Robb Vertiss.$(br2)«La comunicazione è la magia che connette ogni creatura.»$(br2)Questo volume raccoglie tutte le creature, dal $(l)Primo$() al $(l)Quinto Grado$(). Solo i più degni stringeranno un legame con le creature qui descritte."
+subtitle = "Il Codex Completo"

@@ -1,0 +1,24 @@
+{
+    "announcements": [
+        {
+            "scoreboard": "treasureHunt",
+            "tag": "admin",
+            "days": 1,
+            "title": "Prova del Cercatore",
+            "message": "§rLa §6Prova del Cercatore§r è aperta. Raccogli il maggior numero di tesori per ottenere un §3Favore§r!"
+        },
+        {
+            "scoreboard": "electionTime",
+            "tag": "admin",
+            "days": 1,
+            "title": "Elezione del Borgomastro",
+            "message": "§rLe votazioni per il nuovo §6Borgomastro§r sono aperte. Recati al tuo municipio per votare!"
+        },
+        {
+            "tag": "all",
+            "days": 7,
+            "title": "Araldo degli Dei",
+            "message": "§rIl 1° giorno del mese, alla 22ma ora si celebrerà l'§6Araldo degli Dei§r. Raccogli i tuoi favori e preparati a ricevere la benedizione!"
+        }
+    ]
+}

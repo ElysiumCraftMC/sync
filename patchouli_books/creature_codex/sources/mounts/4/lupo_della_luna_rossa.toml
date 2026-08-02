@@ -1,0 +1,10 @@
+name = "Lupo della Luna Rossa"
+sortnum = 2
+icon = "minecraft:nether_star"
+image = "elysium:textures/book/lupo_della_luna_rossa.png"
+
+description = """
+Canidi di dimensioni straordinarie che vivono in solitudine. Sono animali silenziosi e sedentari. La loro progenie è quindi un evento molto raro. Venerano la Luna Rossa e, prima di cibarsi delle loro prede — chocobo, orsogufi e vacchefungus — nelle praterie mistiche dei Fiori di Laus, attendono la notte per benedire e omaggiare la luna.
+
+Sono creature sagge e scattanti. Addestrare un Lupo della Luna Rossa richiede una determinazione ferrea e una disciplina impeccabile.
+"""

@@ -1,0 +1,10 @@
+name = "Mulo"
+sortnum = 1
+icon = "minecraft:wheat"
+image = "elysium:textures/book/mulo.png"
+
+description = """
+Creatura ibrida tra il classico stallone e un Castoscio. È noto per il suo portamento stabile e, nel corso delle ere, è stato sfruttato per la sua straordinaria capacità di sopportare i pesi. I muli sono animali sereni e innocui. Si cibano di foglie, chiome lucenti e frutti Chorus.
+
+La loro lealtà li rende facilmente addomesticabili, anche se tendono ad affezionarsi più alle leccornie che il padrone porta nelle proprie tasche che al padrone stesso. I muli sono soliti vivere nelle praterie di Fargus. Non sottovalutate mai la resistenza di un mulo e non mostratevi mai sprezzanti nei suoi confronti.
+"""

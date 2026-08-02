@@ -1,0 +1,22 @@
+{
+
+	arrow: {
+	//t0
+		"wood_arrow": 2.0,
+    	"bamboo_arrow": 2.1,
+    	"bone_arrow": 2.25,
+	//t1
+	    "amethyst_arrow": 2.5,
+    	"copper_arrow": 2.75,
+	//t2
+	    "nether_quartz_arrow": 3.0,
+    	"iron_arrow": 3.25,
+	//t3
+	    "prismarine_arrow": 3.5,
+   		"gold_arrow": 3.75,
+	//t4
+	    "diamond_arrow": 4.25,
+	//t5
+	    "netherite_arrow": 4.75,
+	},
+}

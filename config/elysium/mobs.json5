@@ -1,0 +1,9 @@
+{
+	/* Stats of mutant skeleton
+	*/
+	"mutant_skeleton": {
+		damage: 3.0,
+		projectile: 5.0,
+		speed: 0.4,
+	},
+}

@@ -1,0 +1,10 @@
+name = "Falena Principato"
+sortnum = 5
+icon = "minecraft:dragon_egg"
+image = "elysium:textures/book/falena_principato.png"
+
+description = """
+Falene dall'apertura alare ampia, caratterizzata da trame intricatissime ed estremamente eleganti. Sono creature silenziose e il battito delle loro ali ricorda quello dei gufi. Non sono carnivore e si cibano dei pistilli dei fiori; in base alla specie di fiore consumata, la forma e il colore delle trame sulle loro ali possono cambiare.
+
+Le Falene Principato sono creature sorprendentemente serene e pacifiche. Durante il volo rilasciano un pulviscolo che provoca sonnolenza.
+"""
