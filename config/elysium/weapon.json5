@@ -3116,6 +3116,10 @@
 					"3840",
 					"0",
 				],
+				"spell_power:haste": [
+					"10",
+					"0",
+				],
 			},
 		},
 		 "elysium:infinity_knife": {
@@ -3144,10 +3148,10 @@
 					"17",
 					"0",
 				],
-				"spell_power:haste": [
-					"10",
+				"generic.attack_speed": [
+					"-2.8",
 					"0",
-				],
+				]
 		 	},
 		 },
 	},
