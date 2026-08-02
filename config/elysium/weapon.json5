@@ -3112,6 +3112,10 @@
 					"3840",
 					"0",
 				],
+				"generic.durability": [
+					"3840",
+					"0",
+				],
 			},
 		},
 		 "elysium:infinity_knife": {
@@ -3140,8 +3144,8 @@
 					"17",
 					"0",
 				],
-				"generic.attack_speed": [
-					"-2.8",
+				"spell_power:haste": [
+					"10",
 					"0",
 				],
 		 	},
