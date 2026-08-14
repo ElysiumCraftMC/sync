@@ -2665,6 +2665,10 @@
 		"supplementaries:trapped_present_black{}",
 		"supplementaries:trapped_present_gray{}",
 		"supplementaries:trapped_present_light_gray{}",
-		"supplementaries:trapped_present_brown{}"
+		"supplementaries:trapped_present_brown{}",
+		"jewelry:jade{}",
+		"jewelry:topaz{}",
+		"jewelry:ruby{}",
+		"jewelry:sapphire{}",
 	],
 }
