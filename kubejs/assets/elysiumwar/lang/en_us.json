@@ -1,0 +1,23 @@
+{
+  "elysiumwar.killfeed.death": "%s died",
+  "elysiumwar.killfeed.kill": "%s killed: %s",
+  "elysiumwar.killfeed.crystal_captured": "%s captured Crystal %s!",
+
+  "elysiumwar.notify.respawn": "You have respawned",
+  "elysiumwar.notify.death": "You have died",
+  "elysiumwar.notify.killedBy": "You have been killed by: %s",
+  "elysiumwar.notify.killedSomeone": "You have killed: %s",
+
+  "elysiumwar.waiting.bossbar": "Prepare for war: %ss",
+  "elysiumwar.waiting.end.title": "To the battle",
+  "elysiumwar.waiting.end.subitile": "Conquer crystals in the name of your God",
+
+  "elysiumwar.crystal.contested": "Crystal %s - Contested",
+  "elysiumwar.crystal.capturing": "Crystal %s - Capturing...",
+  "elysiumwar.crystal.owned": "Crystal %s - Owned by %s",
+  "elysiumwar.crystal.neutral": "Crystal %s - Neutral",
+
+  "elysiumwar.cannot_leave_spawn": "You can't leave the spawn area right now",
+  "elysiumwar.in_enemy_spawn": "You are in the enemy spawn",
+  "elysiumwar.game.ended": "The war has ended, %s won"
+}

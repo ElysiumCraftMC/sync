@@ -1,0 +1,15 @@
+{
+    "block.chipped.netherite_block_panels": "Blacksteel Block Panels",
+    "block.chipped.chipped_netherite_block": "Chipped Blacksteel Block",
+    "block.chipped.embossed_netherite_block": "Embossed Blacksteel Block",
+    "block.chipped.engraved_netherite_block": "Engraved Blacksteel Block",
+    "block.chipped.layered_netherite_block": "Layered Blacksteel Block",
+    "block.chipped.plated_netherite_block": "Plated Blacksteel Block",
+    "block.chipped.polished_netherite_block": "Polished Blacksteel Block",
+    "block.chipped.pressed_netherite_block": "Pressed Blacksteel Block",
+    "block.chipped.reinforced_netherite_block": "Reinforced Blacksteel Block",
+    "block.chipped.sheet_netherite_block": "Sheet Blacksteel Block",
+    "block.chipped.shuttered_netherite_block": "Shuttered Blacksteel Block",
+    "block.chipped.stacked_netherite_block": "Stacked Blacksteel Block",
+    "block.chipped.netherite_safe": "Blacksteel Safe"
+}
