@@ -3154,7 +3154,17 @@
 				]
 		 	},
 		 },
+			"elysium:infinity_paxel": {
+					modifiers: {
+					  "generic.attack_speed": [
+						  "-2.8",
+						  "0",
+					  ],
+						"generic.attack_damage": [
+							"0",
+							"0",
+						]
+				},
+		},
 	},
 }
-
-
