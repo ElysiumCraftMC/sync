@@ -10,8 +10,38 @@
 	// incrementOnFail = when the counter doesn't increase, this value is added to the total chance
 	// SuccessesNeededToDrop = the value the counter needs to reach to cause the *result* item to be dropped and reset the counter
 	materialToScrap: {
-		emerald: {
-			result: "elysium:worn_emerald",
+		tin: {
+			result: "elysium:worn_tin",
+			startingChance: 10,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		copper: {
+			result: "elysium:worn_copper",
+			startingChance: 10,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		iron: {
+			result: "elysium:worn_iron",
+			startingChance: 10,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		gold: {
+			result: "elysium:worn_gold",
+			startingChance: 10,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		steel: {
+			result: "elysium:worn_steel",
+			startingChance: 10,
+			incrementOnFail: 10,
+			SuccessesNeededToDrop: 10,
+		},
+		silver: {
+			result: "elysium:worn_silver",
 			startingChance: 10,
 			incrementOnFail: 10,
 			SuccessesNeededToDrop: 10,
@@ -28,32 +58,8 @@
 			incrementOnFail: 10,
 			SuccessesNeededToDrop: 10,
 		},
-		gold: {
-			result: "elysium:worn_gold",
-			startingChance: 10,
-			incrementOnFail: 10,
-			SuccessesNeededToDrop: 10,
-		},
-		silver: {
-			result: "elysium:worn_silver",
-			startingChance: 10,
-			incrementOnFail: 10,
-			SuccessesNeededToDrop: 10,
-		},
-		copper: {
-			result: "elysium:worn_copper",
-			startingChance: 10,
-			incrementOnFail: 10,
-			SuccessesNeededToDrop: 10,
-		},
-		tin: {
-			result: "elysium:worn_tin",
-			startingChance: 10,
-			incrementOnFail: 10,
-			SuccessesNeededToDrop: 10,
-		},
-		iron: {
-			result: "elysium:worn_iron",
+		emerald: {
+			result: "elysium:worn_emerald",
 			startingChance: 10,
 			incrementOnFail: 10,
 			SuccessesNeededToDrop: 10,
