@@ -9,6 +9,7 @@
 	// startingChange = initial chance of highering the scraps counter
 	// incrementOnFail = when the counter doesn't increase, this value is added to the total chance
 	// SuccessesNeededToDrop = the value the counter needs to reach to cause the *result* item to be dropped and reset the counter
+	// doesn't work so change the code in the mod instead, the cause of the problem couldn't be found
 	materialToScrap: {
 		tin: {
 			result: "elysium:worn_tin",
