@@ -1,6 +1,9 @@
 {
 	// dimensions in which the combat log won't trigger
-	blacklistCombatLog: [ "elysium:war" ],
+	blacklistCombatLog: [
+	"elysium:war",
+	"elysium:arena",
+	],
 
 	// dimensions in which the player will lose hunger
 	allowedHungerInDims: [
