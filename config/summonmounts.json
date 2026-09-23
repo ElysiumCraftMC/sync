@@ -1,0 +1,103 @@
+{
+    "allowedDimensions": [
+        "minecraft:overworld"
+    ],
+
+    "time": {
+        "ocarinasCooldownSeconds": 1,
+        "mountAliveSeconds": 600,
+        "mountIdleSeconds": 30,
+        "mountAirborneSeconds": 180
+    },
+
+    "durability": {
+        "INFERIOR": 64,
+        "LESSER": 64,
+        "MEDIUM": 64,
+        "GREATER": 64,
+        "SUPERIOR": 64
+    },
+
+    "foodRepair": {
+        "INFERIOR": 8.0,
+        "LESSER": 8.0,
+        "MEDIUM": 8.0,
+        "GREATER": 8.0,
+        "SUPERIOR": 8.0
+    },
+
+    "mounts": [
+        {
+            "id": "minecraft:donkey",
+            "ocarina": "INFERIOR"
+        },
+        {
+            "id": "minecraft:mule",
+            "ocarina": "LESSER"
+        },
+        {
+            "id": "minecraft:llama",
+            "ocarina": "LESSER"
+        },
+        {
+            "id": "minecraft:horse",
+            "ocarina": "MEDIUM"
+        },
+        {
+            "id": "mythicmounts:acencia",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:archelon",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:courierbird",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:direwolf",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:geckotoalizard",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:nightmare",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:nudibranch",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:ridinglizard",
+            "ocarina": "GREATER"
+        },
+        {
+            "id": "mythicmounts:colelytra",
+            "ocarina": "SUPERIOR"
+        },
+        {
+            "id": "mythicmounts:dragon",
+            "ocarina": "SUPERIOR"
+        },
+        {
+            "id": "mythicmounts:firebird",
+            "ocarina": "SUPERIOR"
+        },
+        {
+            "id": "mythicmounts:griffon",
+            "ocarina": "SUPERIOR"
+        },
+        {
+            "id": "mythicmounts:moth",
+            "ocarina": "SUPERIOR"
+        },
+        {
+            "id": "mythicmounts:netherbat",
+            "ocarina": "SUPERIOR"
+        }
+    ]
+}
