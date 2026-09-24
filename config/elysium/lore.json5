@@ -2649,6 +2649,9 @@
 		"clutter:yellow_silver_wall_candle": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
+		"crystaldraft:crystal_projector": [
+			"\u00a7eCrafted by: \u00a77Carpenter",
+		],
 		"culturaldelights:calamari_roll": [
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
@@ -4115,10 +4118,10 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_chisel_gross": [
-			"\u00a7eCrafted by: \u00a77Blacksmith",
+			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"elysium:copper_chisel_precision": [
-			"\u00a7eCrafted by: \u00a77Blacksmith",
+			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"elysium:copper_hoe": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -6401,7 +6404,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:hammer": [
-			"\u00a7eCrafted by: \u00a77Blacksmith",
+			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:jungle_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",

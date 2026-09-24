@@ -1,0 +1,43 @@
+{
+  "feedback.summonmounts.recall.none": "Your mount has been recalled",
+  "feedback.summonmounts.recall.tamed": "You tamed a mount",
+  "feedback.summonmounts.recall.manual": "You recalled your mount",
+  "feedback.summonmounts.recall.death": "Your mount has died and recalled",
+  "feedback.summonmounts.recall.idle": "Your mount was idle for too long and returned to rest",
+  "feedback.summonmounts.recall.alive": "The energy sustaining your mount has faded",
+  "feedback.summonmounts.recall.airborne": "Your mount reached its flight limit and returned",
+  "feedback.summonmounts.recall.disconnected": "Your mount has been recalled",
+  "feedback.summonmounts.recall.dimension_change": "Your mount has been recalled",
+  "feedback.summonmounts.recall.player_death": "Your mount has returned to your side",
+
+  "feedback.summonmounts.countdown.alive": "Your mount is tired, it will be recalled in %s seconds",
+  "feedback.summonmounts.countdown.idle": "Your mount will be recalled in %s seconds because it has been idle too long",
+  "feedback.summonmounts.countdown.airborne": "Your mount is near his flight limit, will be recalled in %s seconds",
+
+  "feedback.summonmounts.summon.manual": "You summoned your mount",
+  "feedback.summonmounts.summon.combat_log": "You can't summon your mount during combat",
+
+  "feedback.summonmounts.mount.cannot_mount": "Feed your mount to be able to mount it",
+
+  "commands.summonmounts.convert.player_only": "This command can only be used by a player",
+  "commands.summonmounts.convert.no_item": "Hold a legacy mount item in your main hand",
+  "commands.summonmounts.convert.already_converted": "This item has already been converted and must be reset by an administrator",
+  "commands.summonmounts.convert.invalid_item": "The held item does not contain valid legacy mount data",
+  "commands.summonmounts.convert.success": "Created %s from the legacy mount item",
+
+  "item.summonmounts.inferior_ocarina": "Inferior Ocarina",
+  "item.summonmounts.lesser_ocarina": "Lesser Ocarina",
+  "item.summonmounts.medium_ocarina": "Medium Ocarina",
+  "item.summonmounts.greater_ocarina": "Greater Ocarina",
+  "item.summonmounts.superior_ocarina": "Superior Ocarina",
+  "item.summonmounts.inferior_feed": "Inferior Feed",
+  "item.summonmounts.lesser_feed": "Lesser Feed",
+  "item.summonmounts.medium_feed": "Medium Feed",
+  "item.summonmounts.greater_feed": "Greater Feed",
+  "item.summonmounts.superior_feed": "Superior Feed",
+
+  "tooltip.summonmounts.contains": "Contains: %s",
+  "tooltip.summonmounts.color": "Dyed",
+
+  "resourcepack.summonmounts.alternative_ocarinas.description": "2D item models for Ocarinas"
+}

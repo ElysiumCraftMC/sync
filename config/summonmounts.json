@@ -10,6 +10,8 @@
         "mountAirborneSeconds": 180
     },
 
+    "heightLimit": 256,
+    
     "durability": {
         "INFERIOR": 64,
         "LESSER": 64,
