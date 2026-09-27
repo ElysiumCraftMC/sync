@@ -4118,10 +4118,10 @@
 			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_chisel_gross": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_chisel_precision": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"elysium:copper_hoe": [
 			"\u00a7eCrafted by: \u00a77Blacksmith",
@@ -6404,7 +6404,7 @@
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],
 		"handcrafted:hammer": [
-			"\u00a7eCrafted by: \u00a77Carpenter",
+			"\u00a7eCrafted by: \u00a77Blacksmith",
 		],
 		"handcrafted:jungle_bench": [
 			"\u00a7eCrafted by: \u00a77Carpenter",

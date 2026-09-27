@@ -39,5 +39,21 @@
   "tooltip.summonmounts.contains": "Contains: %s",
   "tooltip.summonmounts.color": "Dyed",
 
-  "resourcepack.summonmounts.alternative_ocarinas.description": "2D item models for Ocarinas"
+  "resourcepack.summonmounts.alternative_ocarinas.description": "2D item models for Ocarinas",
+
+  "ledger.summonmounts.summoned": "summoned",
+  "ledger.summonmounts.tamed": "tamed",
+  "ledger.summonmounts.recall": "%srecalled",
+  "ledger.summonmounts.recall.none": "(server) ",
+  "ledger.summonmounts.recall.tamed": "(tamed) ",
+  "ledger.summonmounts.recall.manual": "(manual) ",
+  "ledger.summonmounts.recall.death": "(mount death) ",
+  "ledger.summonmounts.recall.idle": "(idle) ",
+  "ledger.summonmounts.recall.alive": "(lifetime) ",
+  "ledger.summonmounts.recall.airborne": "(airborne) ",
+  "ledger.summonmounts.recall.disconnected": "(disconnected) ",
+  "ledger.summonmounts.recall.dimension_change": "(dimension change) ",
+  "ledger.summonmounts.recall.player_death": "(player death) ",
+  "ledger.summonmounts.gear.add": "added %s to",
+  "ledger.summonmounts.gear.remove": "removed %s from"
 }
