@@ -4506,6 +4506,33 @@
 		"elysium:vegetable_sandwich": [
 			"\u00a7eCrafted by: \u00a77Cook",
 		],
+		"elysium:worn_copper": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_diamond": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_emerald": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_gold": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_iron": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_netherite": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_silver": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_steel": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
+		"elysium:worn_tin": [
+			"\u00a7eCrafted by: \u00a77Blacksmith",
+		],
 		"excessive_building:acacia_mosaic": [
 			"\u00a7eCrafted by: \u00a77Carpenter",
 		],

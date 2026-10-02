@@ -6,11 +6,12 @@
     "time": {
         "ocarinasCooldownSeconds": 1,
         "mountAliveSeconds": 600,
-        "mountIdleSeconds": 30,
+        "mountIdleSeconds": 60,
         "mountAirborneSeconds": 180
     },
 
     "heightLimit": 256,
+    "distanceLimit": 64,
     
     "durability": {
         "INFERIOR": 64,

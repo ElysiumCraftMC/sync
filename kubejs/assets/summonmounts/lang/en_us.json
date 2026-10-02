@@ -9,6 +9,7 @@
   "feedback.summonmounts.recall.disconnected": "Your mount has been recalled",
   "feedback.summonmounts.recall.dimension_change": "Your mount has been recalled",
   "feedback.summonmounts.recall.player_death": "Your mount has returned to your side",
+  "feedback.summonmounts.recall.distance_limit": "Your mount was too far, it has been recalled",
 
   "feedback.summonmounts.countdown.alive": "Your mount is tired, it will be recalled in %s seconds",
   "feedback.summonmounts.countdown.idle": "Your mount will be recalled in %s seconds because it has been idle too long",
@@ -54,6 +55,8 @@
   "ledger.summonmounts.recall.disconnected": "(disconnected) ",
   "ledger.summonmounts.recall.dimension_change": "(dimension change) ",
   "ledger.summonmounts.recall.player_death": "(player death) ",
+  "ledger.summonmounts.recall.distance_limit": "(distance limit) ",
+
   "ledger.summonmounts.gear.add": "added %s to",
   "ledger.summonmounts.gear.remove": "removed %s from"
 }
