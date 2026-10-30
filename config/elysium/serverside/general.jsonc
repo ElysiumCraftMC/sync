@@ -1,0 +1,8 @@
+//enableEternalNight will create a fake night for all the connecting clients
+{
+  "houndDespawnAfterKill": false,
+  "nightShadeDespawnAfterKill": false,
+  "enableEternalNight": false,
+  "disableRevive": false,
+  "disableImmortality": false
+}

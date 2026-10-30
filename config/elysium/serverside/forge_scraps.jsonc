@@ -1,0 +1,66 @@
+//dropGenericScrap indicate how much items must be taken from the forge to get a generic scrap.
+//materialToScrap uses a logic of material name on the left and the result item plus other settings are on the right
+//|- result tells which item should be given as worn material
+//|- startingChance indicates the base chance of getting a scrap
+//|- incrementOnFail increments the chance of getting the worn item when the player doesn't get one
+//|- SuccessesNeededToDrop how much times the random pick must succeed in order to give the worn item
+{
+  "enabled": true,
+  "dropGenericScrap": 10,
+  "materialToScrap": {
+    "tin": {
+      "result": "elysium:worn_tin",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "copper": {
+      "result": "elysium:worn_copper",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "iron": {
+      "result": "elysium:worn_iron",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "gold": {
+      "result": "elysium:worn_gold",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "steel": {
+      "result": "elysium:worn_steel",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "silver": {
+      "result": "elysium:worn_silver",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "diamond": {
+      "result": "elysium:worn_diamond",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "netherite": {
+      "result": "elysium:worn_netherite",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    },
+    "emerald": {
+      "result": "elysium:worn_emerald",
+      "startingChance": 10,
+      "incrementOnFail": 10,
+      "SuccessesNeededToDrop": 10
+    }
+  }
+}
