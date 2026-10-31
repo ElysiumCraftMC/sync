@@ -2,7 +2,7 @@
 {
   "houndDespawnAfterKill": false,
   "nightShadeDespawnAfterKill": false,
-  "enableEternalNight": true,
+  "enableEternalNight": false,
   "disableRevive": false,
   "disableImmortality": false
 }
