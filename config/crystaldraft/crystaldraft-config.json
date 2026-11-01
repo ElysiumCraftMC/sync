@@ -1,5 +1,5 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "trowel": {
     "enabled": true,
     "features": {
@@ -68,6 +68,12 @@
         "max_range": 4,
         "consume_materials": true,
         "per_use_damage": 1,
+        "anvil_repair_materials": [
+          {
+            "item": "elysium:cote_copper",
+            "repair_percent": 25
+          }
+        ],
         "ui": {
           "palette_slot_count": 2,
           "imprint_support": false,
@@ -153,6 +159,12 @@
         "max_range": 5,
         "consume_materials": true,
         "per_use_damage": 1,
+        "anvil_repair_materials": [
+          {
+            "item": "elysium:cote_iron",
+            "repair_percent": 25
+          }
+        ],
         "ui": {
           "palette_slot_count": 3,
           "imprint_support": false,
@@ -238,6 +250,12 @@
         "max_range": 5,
         "consume_materials": true,
         "per_use_damage": 1,
+        "anvil_repair_materials": [
+          {
+            "item": "elysium:cote_gold",
+            "repair_percent": 25
+          }
+        ],
         "ui": {
           "palette_slot_count": 4,
           "imprint_support": false,
@@ -323,6 +341,12 @@
         "max_range": 6,
         "consume_materials": true,
         "per_use_damage": 1,
+        "anvil_repair_materials": [
+          {
+            "item": "elysium:cote_diamond",
+            "repair_percent": 25
+          }
+        ],
         "ui": {
           "palette_slot_count": 5,
           "imprint_support": false,
@@ -408,6 +432,12 @@
         "max_range": 6,
         "consume_materials": true,
         "per_use_damage": 1,
+        "anvil_repair_materials": [
+          {
+            "item": "elysium:cote_netherite",
+            "repair_percent": 25
+          }
+        ],
         "ui": {
           "palette_slot_count": 6,
           "imprint_support": false,
@@ -493,7 +523,7 @@
     "features": {
       "screen": true,
       "preview": true,
-      "capture": true,
+      "capture": false,
       "capture_overlay": true,
       "creative_build": true,
       "blueprint_download_sync": true,
