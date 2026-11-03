@@ -16,6 +16,9 @@
    "item.treeaxe.wooden_treeaxe":"Tin Treeaxe",
    "item.minecraft.iron_bars": "Bars",
 
+   "item.elysiumcraft.core": "Abyssal Core",
+   "item.elysiumcraft.core_fragment": "Abyssal Fragment",
+
    "origin.elysium.class/alchemist/0.name": "Alchimista | 0",
    "origin.elysium.class/alchemist/1.name": "Alchimista | 1",
    "origin.elysium.class/alchemist/2.name": "Alchimista | 2",
