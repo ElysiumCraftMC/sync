@@ -3,5 +3,10 @@
     "sounds": [
       "elysium:war"
     ]
+  },
+  "infinity_flute": {
+    "sounds": [
+      "elysium:infinity_flute"
+    ]
   }
 }
