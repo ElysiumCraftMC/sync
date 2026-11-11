@@ -47,7 +47,7 @@
    "power.elysium.class/alchemist/tough/3.description": "",
    "power.elysium.class/alchemist/tough/4.description": "",
    "power.elysium.class/alchemist/tough/5.description": "",
-   
+
 
 
    "origin.elysium.class/bard/0.name": "Bardo | 0",
@@ -417,7 +417,7 @@
    "power.elysium.class/shadow/spidey/3.name": "Movimenti del ragno II",
    "power.elysium.class/shadow/spidey/0.description": "Sei capace di arrampicarti su qualsiasi superficie mentre sei accovacciato.",
    "power.elysium.class/shadow/spidey/3.description": "Sei capace di arrampicarti e sostenerti su qualsiasi superficie mentre sei accovacciato.",
-   
+
 
 
    "origin.elysium.class/warrior/0.name": "Guerriero | 0",
@@ -473,7 +473,7 @@
    "origin.elysium.faction/none.name": "Scelta casuale",
    "origin.elysium.faction/valaryn.description": "Sei rinato sotto il dominio di Valaryn, una delle tre divinità che benedicono le terre di Elysium",
    "origin.elysium.faction/valaryn.name": "Figlio di Valaryn",
-   
+
    "origin.elysium.race/human.name": "Normale",
    "origin.elysium.race/human.description": "La stazza più comune",
    "origin.elysium.race/dwarf.name": "Piccola",
@@ -619,7 +619,7 @@
    "block.excessive_building.netherite_bricks": "Blacksteel Bricks",
    "block.excessive_building.netherite_brick_stairs": "Blacksteel Brick Stairs",
    "block.excessive_building.netherite_brick_slab": "Blacksteel Brick Slab",
-   "item.archers_arsenal.bow_netherite": "Blacksteel Bow",  
+   "item.archers_arsenal.bow_netherite": "Blacksteel Bow",
    "item.vc_gliders.paraglider_netherite": "Blacksteel Paraglider",
    "item.vc_gliders.reinforced_paper_netherite": "Re-Inforced Paper (Blacksteel)",
    "block.supplementaries.netherite_door": "Blacksteel Door",
@@ -642,7 +642,7 @@
    "item.minecraft.diamond_chestplate": "Silver Chestplate",
    "item.minecraft.diamond_leggings": "Silver Leggings",
    "item.minecraft.diamond_boots": "Silver Boots",
-   
+
    "item.elysium.t3_arcane_robe_feet": "Medium Arcane Robe Feet",
    "item.elysium.t3_arcane_robe_chest": "Medium Arcane Robe Chest",
    "item.elysium.t3_arcane_robe_head": "Medium Arcane Robe Head",
@@ -700,5 +700,6 @@
    "item.runes.healing_stone": "Holy Rune",
 
    "item.elysium.rusty_key" : "Ancient Key",
-   "item.elysium.rusty_key_fragment" : "Ancient Key Fragment"
+   "item.elysium.rusty_key_fragment" : "Ancient Key Fragment",
+   "spell.elysium.infinity_crescendo.name": "Infinity Crescendo"
 }
