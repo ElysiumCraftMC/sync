@@ -3651,268 +3651,269 @@
 				]
 			}
 		},
-  "elysium:t0_hood": {
-      modifiers: {
-        "generic.armor": [
-          "1",
-          "0",
-        ],
-        "generic.durability": [
-          "120",
-          "0",
-        ],
-      },
-    },
-    "elysium:t1_hood": {
-      modifiers: {
-        "generic.armor": [
-          "2",
-          "0",
-        ],
-        "generic.durability": [
-          "240",
-          "0",
-        ],
-      },
-    },
-    "elysium:t2_arcane_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "480",
-          "0",
-        ],
-      },
-    },
-    "elysium:t2_fire_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "480",
-          "0",
-        ],
-      },
-    },
-    "elysium:t2_prior_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "480",
-          "0",
-        ],
-      },
-    },
-    "elysium:t2_frost_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "480",
-          "0",
-        ],
-      },
-    },
-    "elysium:t3_arcane_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "1",
-          "0",
-        ],
-        "generic.durability": [
-          "960",
-          "0",
-        ],
-      },
-    },
-    "elysium:t3_fire_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "1",
-          "0",
-        ],
-        "generic.durability": [
-          "960",
-          "0",
-        ],
-      },
-    },
-    "elysium:t3_prior_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "1",
-          "0",
-        ],
-        "generic.durability": [
-          "960",
-          "0",
-        ],
-      },
-    },
-    "elysium:t3_frost_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "1",
-          "0",
-        ],
-        "generic.durability": [
-          "960",
-          "0",
-        ],
-      },
-    },
-    "elysium:t4_arcane_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "2",
-          "0",
-        ],
-        "generic.durability": [
-          "1920",
-          "0",
-        ],
-      },
-    },
-    "elysium:t4_fire_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "2",
-          "0",
-        ],
-        "generic.durability": [
-          "1920",
-          "0",
-        ],
-      },
-    },
-    "elysium:t4_prior_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "2",
-          "0",
-        ],
-        "generic.durability": [
-          "1920",
-          "0",
-        ],
-      },
-    },
-    "elysium:t4_frost_hood": {
-      modifiers: {
-        "generic.armor": [
-          "3",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "2",
-          "0",
-        ],
-        "generic.durability": [
-          "1920",
-          "0",
-        ],
-      },
-    },
-    "elysium:t5_arcane_hood": {
-      modifiers: {
-        "generic.armor": [
-          "4",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "3840",
-          "0",
-        ],
-      },
-    },
-    "elysium:t5_fire_hood": {
-      modifiers: {
-        "generic.armor": [
-          "4",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "3840",
-          "0",
-        ],
-      },
-    },
-    "elysium:t5_prior_hood": {
-      modifiers: {
-        "generic.armor": [
-          "4",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "3840",
-          "0",
-        ],
-      },
-    },
-    "elysium:t5_frost_hood": {
-      modifiers: {
-        "generic.armor": [
-          "4",
-          "0",
-        ],
-        "generic.armor_toughness": [
-          "3",
-          "0",
-        ],
-        "generic.durability": [
-          "3840",
-          "0",
-        ],
-    }
+	 "elysium:t0_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "1",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "120",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t1_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "2",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "240",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t2_arcane_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "480",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t2_fire_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "480",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t2_prior_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "480",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t2_frost_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "480",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t3_arcane_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "1",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "960",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t3_fire_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "1",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "960",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t3_prior_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "1",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "960",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t3_frost_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "1",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "960",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t4_arcane_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "2",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "1920",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t4_fire_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "2",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "1920",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t4_prior_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "2",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "1920",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t4_frost_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "2",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "1920",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t5_arcane_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "4",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "3840",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t5_fire_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "4",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "3840",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t5_prior_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "4",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "3840",
+	          "0",
+	        ],
+	      },
+	    },
+	    "elysium:t5_frost_hood": {
+	      modifiers: {
+	        "generic.armor": [
+	          "4",
+	          "0",
+	        ],
+	        "generic.armor_toughness": [
+	          "3",
+	          "0",
+	        ],
+	        "generic.durability": [
+	          "3840",
+	          "0",
+	        ],
+	      },
+	   },
 	},
 }
