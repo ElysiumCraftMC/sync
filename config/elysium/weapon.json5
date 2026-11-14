@@ -2757,7 +2757,7 @@
 		"spellbladenext:orb_arcane": {
 			modifiers: {
 				"spell_power:arcane": [
-					"20.0",
+					"7.0",
 					"0",
 				],
 			},
